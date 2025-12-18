@@ -1,0 +1,633 @@
+;BADAN METEOROLOGI KLIMATOLOGI DAN GEOFISIKA (BMKG);;;
+;SISTEM PERINGATAN DINI TSUNAMI INDONESIA (INATEWS);;;
+;LINTANG;:  -11 s/d 6;;
+;BUJUR;:  94 s/d 142;;
+;KEDALAMAN;:  1.00 s/d 1000.00;;
+;MAGNITUDE;:  1.00 s/d 9.50;;
+;RENTANG WAKTU;:  11-01-2025 s/d 20-01-2025;;
+;;;;
+;;;;
+;;;;
+DATE (GMT);LINTANG (ø);BUJUR (ø);KEDALAMAN (KM);MAGNITUDO (M)
+15/01/2025 07:13;8,04° LS – 120,48° BT;Darat, ±25 km Barat Daya Kab. Flores Timur (NTT);2,67;5,3
+15/01/2025 07:14;0,84° LU – 127,58° BT;±40 km Timur Laut Kab. Halmahera Barat (Maluku Utara);2,25;5,6
+15/01/2025 07:50;0,28° LU – 122,33° BT;±60 km Barat Laut Kab. Banggai, Sulawesi Tengah;145,9;2
+15/01/2025 07:51;3,45° LS – 135,56° BT;±45 km Barat Daya Kota Jayapura, Papua;39,3;3,3
+15/01/2025 10:05;4,94° LU – 127,29° BT;Laut, ±70 km Utara Kab. Halmahera Utara;108,1;4,1
+15/01/2025 10:10;7,82° LS – 107,29° BT;Darat, ±18 km Barat Daya Kab. Sukabumi, Jawa Barat;23,2;3,4
+15/01/2025 10:31;8,30° LS – 109,02° BT;Laut, ±55 km Selatan Kab. Cilacap, Jawa Tengah;31,7;2,7
+15/01/2025 10:52;7,91° LS – 118,88° BT;Darat, ±30 km Timur Laut Kab. Dompu, Nusa Tenggara Barat;24,2;2,4
+15/01/2025 11:02;2,32° LS – 121,05° BT;Darat, ±20 km Barat Laut Kab. Poso, Sulawesi Tengah;5;2,5
+15/01/2025 11:07;1,72° LS – 133,32° BT;Darat, ±35 km Barat Daya Kab. Supiori, Papua;11,9;2,3
+15/01/2025 11:23;0,40° LU – 125,70° BT;Laut, ±35 km Timur Laut Kab. Halmahera Timur;5;3,4
+15/01/2025 20:05;5,19° LU – 95,78° BT;Laut, ±45 km Barat Laut Kota Banda Aceh;10;3,8
+15/01/2025 20:36;8,61° LS – 112,93° BT;Laut, ±90 km Selatan Kab. Malang, Jawa Timur;113,3;2,8
+15/01/2025 20:50;8,56° LS – 116,22° BT;Darat, ±25 km Barat Daya Kab. Lombok Tengah, NTB;14,2;2,1
+15/01/2025 21:40;7,73° LS – 117,49° BT;Darat, ±20 km Barat Laut Kab. Sumbawa Barat, NTB;11,5;3,5
+15/01/2025 22:30;7,71° LS – 117,47° BT;Darat, ±22 km Barat Laut Kab. Sumbawa Barat, NTB;10,9;3
+15/01/2025 22:51;10,11° LS – 119,34° BT;Laut, ±65 km Barat Daya Kab. Sumba Timur, NTT;10;4,3
+15/01/2025 23:10;9,41° LS – 115,06° BT;Laut, ±40 km Selatan Kab. Jembrana, Bali;10;3,5
+15/01/2025 23:20;7,74° LS – 117,48° BT;Darat, ±21 km Barat Laut Kab. Sumbawa Barat, NTB;10;3,3
+15/01/2025 23:25;0,28° LS – 100,20° BT;Darat, ±30 km Barat Daya Kab. Pesisir Selatan, Sumatera Barat;10;2
+16/01/2025 00:00;0,47° LS – 123,62° BT;Laut, ±35 km Barat Laut Kab. Banggai Laut, Sulawesi Tengah;10;2,6
+16/01/2025 00:04;0,90° LU – 100,16° BT;Darat, ±40 km Barat Laut Kota Padang, Sumatera Barat;194,6;2,9
+16/01/2025 00:09;10,23° LS – 119,33° BT;Laut, ±70 km Barat Daya Kab. Sumba Timur, NTT;10;2,2
+16/01/2025 00:21;7,49° LS – 106,14° BT;Laut, ±45 km Selatan Kab. Sukabumi, Jawa Barat;17,7;3
+16/01/2025 00:24;2,49° LS – 121,17° BT;Darat, ±25 km Barat Daya Kab. Poso, Sulawesi Tengah;10;2,3
+16/01/2025 01:07;3,16° LS – 102,69° BT;Darat, ±60 km Barat Daya Kab. Seluma, Bengkulu;203;5
+16/01/2025 07:12;0,19° LS – 123,68° BT;Laut, ±40 km Utara Kab. Banggai Laut, Sulawesi Tengah;80,5;3
+16/01/2025 07:45;0,88° LU – 120,54° BT;Laut, ±30 km Utara Kab. Buol, Sulawesi Tengah;10;2,2
+16/01/2025 07:49;7,67° LS – 128,15° BT;Laut, ±85 km Barat Laut Kab. Maluku Barat Daya;123,1;4,5
+16/01/2025 08:29;2,53° LS – 135,74° BT;Darat, ±30 km Barat Daya Kab. Mamberamo Raya, Papua;12,7;3,7
+16/01/2025 09:56;5,34° LU – 126,49° BT;Laut, ±95 km Timur Laut Kab. Kep. Talaud, Sulawesi Utara;136,4;4,2
+16/01/2025 10:27;10,65° LS – 123,81° BT;Laut, ±70 km Tenggara Kab. Kupang, NTT;86,1;2,9
+16/01/2025 10:31;9,98° LS – 119,71° BT;Darat, ±35 km Barat Daya Kab. Sumba Barat, NTT;10;2,1
+16/01/2025 11:00;10,62° LS – 115,15° BT;Laut, ±60 km Selatan Kab. Jembrana, Bali;37,1;3,3
+16/01/2025 11:16;4,70° LU – 126,56° BT;Laut, ±90 km Timur Laut Kab. Kep. Talaud, Sulawesi Utara;84;3,9
+16/01/2025 11:27;8,81° LS – 111,36° BT;Laut, ±55 km Selatan Kab. Blitar, Jawa Timur;53,2;2,7
+16/01/2025 11:55;8,90° LS – 118,60° BT;Darat, ±25 km Barat Daya Kab. Dompu, NTB;10;2,3
+16/01/2025 12:00;8,28° LS – 110,30° BT;Laut, ±40 km Selatan Kab. Gunungkidul, DIY;15;2,1
+16/01/2025 13:17;7,72° LS – 117,46° BT;Darat, ±20 km Barat Laut Kab. Sumbawa Barat, NTB;26;4,9
+16/01/2025 13:46;7,74° LS – 117,45° BT;Darat, ±22 km Barat Laut Kab. Sumbawa Barat, NTB;12,1;3
+16/01/2025 13:53;7,72° LS – 117,44° BT;Darat, ±21 km Barat Laut Kab. Sumbawa Barat, NTB;11,3;3,1
+16/01/2025 14:02;7,66° LS – 117,45° BT;Darat, ±23 km Barat Laut Kab. Sumbawa Barat, NTB;13,5;3,7
+16/01/2025 14:32;1,22° LU – 120,35° BT;Laut, ±35 km Utara Kab. Buol, Sulawesi Tengah;10;2,7
+16/01/2025 14:43;3,29° LS – 128,91° BT;Darat, ±30 km Tenggara Kab. Seram Bagian Timur, Maluku;43,6;3,1
+16/01/2025 15:27;7,73° LS – 117,43° BT;Darat, ±24 km Barat Laut Kab. Sumbawa Barat, NTB;12,5;2,7
+16/01/2025 15:33;0,57° LS – 123,58° BT;Laut, ±40 km Utara Kab. Banggai Laut, Sulawesi Tengah;13,9;3,4
+16/01/2025 15:41;0,27° LS – 100,22° BT;Darat, ±30 km Barat Daya Kab. Pesisir Selatan, Sumatera Barat;10;2
+16/01/2025 16:11;2,92° LS – 120,16° BT;Darat, ±25 km Barat Daya Kab. Poso, Sulawesi Tengah;10;2,1
+16/01/2025 17:04;0,65° LU – 122,69° BT;Laut, ±30 km Utara Kab. Gorontalo Utara;18,5;2
+16/01/2025 17:27;9,73° LS – 119,50° BT;Darat, ±40 km Barat Daya Kab. Sumba Barat Daya, NTT;47,4;3,2
+16/01/2025 17:44;3,70° LS – 139,07° BT;Darat, ±55 km Barat Daya Kab. Jayawijaya, Papua Pegunungan;131,5;3,7
+16/01/2025 17:45;2,07° LS – 120,45° BT;Darat, ±20 km Barat Daya Kab. Poso, Sulawesi Tengah;10;2,1
+17/01/2025 08:00;8,10° LS – 107,29° BT;Laut, ±35 km Selatan Kab. Sukabumi, Jawa Barat;27,8;2,9
+17/01/2025 08:04;0,26° LS – 99,73° BT;Darat, ±25 km Barat Laut Kab. Pesisir Selatan, Sumatera Barat;10,7;2,3
+17/01/2025 09:19;3,84° LU – 126,67° BT;Laut, ±80 km Timur Laut Kab. Kep. Talaud, Sulawesi Utara;67,5;3,5
+17/01/2025 09:29;8,25° LS – 119,86° BT;Laut, ±90 km Selatan Kab. Sumba Barat, NTT;161,5;3,4
+17/01/2025 11:08;0,94° LS – 119,93° BT;Darat, ±30 km Tenggara Kab. Donggala, Sulawesi Tengah;10;2,5
+17/01/2025 11:22;8,47° LS – 123,34° BT;Laut, ±45 km Timur Laut Kab. Alor, NTT;10;2,2
+17/01/2025 11:25;2,33° LU – 125,26° BT;Laut, ±110 km Timur Laut Kab. Halmahera Utara;139,1;1,7
+17/01/2025 11:36;7,79° LS – 118,54° BT;Darat, ±28 km Barat Laut Kab. Dompu, NTB;17,1;3,2
+17/01/2025 11:43;1,64° LU – 126,65° BT;Laut, ±60 km Timur Laut Kab. Halmahera Utara;24,1;3,6
+17/01/2025 11:54;3,20° LS – 135,77° BT;Darat, ±35 km Barat Daya Kab. Mamberamo Raya, Papua;23,7;3,1
+17/01/2025 11:57;8,46° LS – 123,35° BT;Laut, ±44 km Timur Laut Kab. Alor, NTT;10;2,8
+17/01/2025 12:12;7,81° LS – 118,51° BT;Darat, ±30 km Barat Laut Kab. Dompu, NTB;25,4;2,6
+17/01/2025 12:21;8,47° LS – 123,34° BT;Laut, ±45 km Timur Laut Kab. Alor, NTT;10;2,2
+17/01/2025 12:23;3,88° LS – 103,08° BT;Darat, ±35 km Barat Laut Kab. Seluma, Bengkulu;10;2,4
+17/01/2025 12:58;8,46° LS – 123,36° BT;Laut, ±46 km Timur Laut Kab. Alor, NTT;10;2,2
+17/01/2025 13:03;0,17° LS – 122,89° BT;Laut, ±30 km Utara Kab. Banggai Laut, Sulawesi Tengah;14,3;2,8
+17/01/2025 13:17;7,61° LS – 106,13° BT;Laut, ±40 km Selatan Kab. Sukabumi, Jawa Barat;20,5;3,5
+17/01/2025 13:32;2,73° LS – 121,97° BT;Darat, ±25 km Barat Daya Kab. Morowali, Sulawesi Tengah;10;2,6
+17/01/2025 13:36;0,91° LU – 122,75° BT;Laut, ±35 km Utara Kab. Gorontalo Utara;41,8;2,3
+17/01/2025 13:41;2,02° LU – 128,07° BT;Laut, ±30 km Timur Laut Kab. Halmahera Timur;10;2,6
+17/01/2025 13:51;8,38° LS – 123,32° BT;Laut, ±42 km Timur Laut Kab. Alor, NTT;10;3,1
+17/01/2025 13:52;7,34° LS – 107,57° BT;Darat, ±25 km Barat Daya Kab. Bandung, Jawa Barat;10;2,4
+17/01/2025 14:16;2,66° LU – 98,83° BT;Darat, ±45 km Barat Laut Kab. Karo, Sumatera Utara;140,9;2,9
+17/01/2025 14:23;3,27° LS – 139,46° BT;Darat, ±40 km Tenggara Kab. Jayapura, Papua;10;3,5
+17/01/2025 15:16;9,07° LS – 124,14° BT;Laut, ±55 km Barat Laut Kab. Timor Tengah Selatan, NTT;55,5;2,5
+17/01/2025 15:29;8,48° LS – 123,32° BT;Laut, ±40 km Timur Laut Kab. Alor, NTT;10;2,2
+17/01/2025 15:46;1,58° LS – 99,15° BT;Darat, ±30 km Barat Daya Kab. Pasaman Barat, Sumatera Barat;34,6;2,4
+17/01/2025 16:30;9,54° LS – 121,87° BT;Laut, ±60 km Selatan Kab. Sabu Raijua, NTT;30,2;3,1
+17/01/2025 16:35;0,03° LU – 124,40° BT;Laut, ±35 km Utara Kab. Banggai Laut, Sulawesi Tengah;22,4;3,3
+17/01/2025 16:41;8,60° LS – 118,40° BT;Darat, ±35 km Barat Daya Kab. Dompu, NTB;111;3,3
+17/01/2025 16:49;8,68° LS – 117,41° BT;Darat, ±30 km Barat Laut Kab. Sumbawa Barat, NTB;10;2,3
+17/01/2025 16:52;2,02° LU – 97,17° BT;Laut, ±40 km Barat Daya Kab. Aceh Singkil;10;3,2
+17/01/2025 17:00;9,87° LS – 119,79° BT;Darat, ±45 km Barat Daya Kab. Sumba Barat Daya, NTT;19,5;2,8
+17/01/2025 17:05;3,24° LU – 96,48° BT;Laut, ±30 km Barat Laut Kab. Simeulue, Aceh;10,9;2,9
+17/01/2025 17:11;2,36° LS – 121,08° BT;Darat, ±25 km Barat Daya Kab. Poso, Sulawesi Tengah;10;2,4
+17/01/2025 17:11;0,95° LS – 133,23° BT;Darat, ±35 km Barat Daya Kab. Supiori, Papua;10;2,7
+17/01/2025 17:26;8,63° LS – 111,08° BT;Laut, ±50 km Selatan Kab. Blitar, Jawa Timur;41,2;3,1
+17/01/2025 17:44;7,29° LS – 106,55° BT;Darat, ±20 km Barat Daya Kab. Sukabumi, Jawa Barat;34,5;4
+17/01/2025 17:58;7,99° LS – 107,12° BT;Darat, ±30 km Selatan Kab. Bandung, Jawa Barat;17,9;2,8
+17/01/2025 18:01;0,95° LU – 121,10° BT;Laut, ±35 km Utara Kab. Buol, Sulawesi Tengah;33,9;2,5
+17/01/2025 18:03;8,56° LS – 111,06° BT;Laut, ±45 km Selatan Kab. Blitar, Jawa Timur;36,9;3
+19/01/2025 18:42;9,46° LS – 117,25° BT;Darat, ±35 km Barat Laut Kab. Sumbawa Barat, NTB;18;3,3
+19/01/2025 19:26;0,13° LS – 100,41° BT;Darat, ±25 km Barat Daya Kab. Padang Pariaman, Sumatera Barat;10;2,5
+19/01/2025 19:34;2,59° LS – 121,51° BT;Darat, ±30 km Tenggara Kab. Morowali, Sulawesi Tengah;10;3
+19/01/2025 19:39;9,66° LS – 114,31° BT;Laut, ±55 km Selatan Kab. Jembrana, Bali;10;3,5
+19/01/2025 19:44;0,20° LS – 122,91° BT;Laut, ±40 km Utara Kab. Banggai Laut, Sulawesi Tengah;92,3;2,8
+19/01/2025 20:20;6,07° LS – 101,78° BT;Laut, ±70 km Barat Daya Kab. Mukomuko, Bengkulu;10;3,4
+19/01/2025 21:21;7,46° LS – 129,52° BT;Laut, ±95 km Barat Laut Kab. Maluku Barat Daya;139;4,7
+19/01/2025 21:49;8,81° LS – 123,88° BT;Laut, ±50 km Timur Laut Kab. Alor, NTT;10;3,6
+19/01/2025 23:17;0,13° LS – 124,10° BT;Laut, ±30 km Utara Kab. Banggai Laut, Sulawesi Tengah;11,5;3,5
+19/01/2025 23:36;4,97° LU – 126,13° BT;Laut, ±85 km Timur Laut Kab. Kep. Talaud, Sulawesi Utara;10;3,9
+25/01/2025 09:39;4,08° LS – 121,76° BT;Darat, ±20 km Tenggara Kab. Kolaka Timur, Sulawesi Tenggara;10;4,2
+25/01/2025 10:06;7,26° LS – 129,39° BT;Laut, ±120 km Barat Laut Kab. Kep. Tanimbar, Maluku;139;4,8
+25/01/2025 10:46;8,81° LS – 118,69° BT;Darat, ±35 km Barat Daya Kab. Dompu, NTB;138,9;2,6
+25/01/2025 12:10;4,03° LS – 121,76° BT;Darat, ±18 km Tenggara Kab. Kolaka Timur, Sulawesi Tenggara;10;2,6
+25/01/2025 12:37;0,07° LS – 123,22° BT;Laut, ±45 km Utara Kab. Banggai Laut, Sulawesi Tengah;133,1;2,6
+25/01/2025 13:31;1,38° LS – 99,92° BT;Darat, ±30 km Barat Laut Kab. Pasaman Barat, Sumatera Barat;14,2;2,8
+25/01/2025 15:10;0,76° LS – 99,83° BT;Darat, ±25 km Barat Laut Kab. Pasaman Barat, Sumatera Barat;43,5;3,4
+25/01/2025 15:19;2,18° LS – 121,23° BT;Darat, ±25 km Barat Daya Kab. Poso, Sulawesi Tengah;10;2,6
+25/01/2025 16:35;1,17° LU – 128,28° BT;Laut, ±35 km Timur Laut Kab. Halmahera Timur;10;3,1
+25/01/2025 16:36;10,24° LS – 117,54° BT;Laut, ±60 km Selatan Kab. Sumba Barat, NTT;10;2,8
+25/01/2025 16:52;7,28° LS – 120,33° BT;Laut, ±90 km Selatan Kab. Manggarai Barat, NTT;560,5;3,4
+25/01/2025 17:08;4,05° LS – 121,78° BT;Darat, ±22 km Tenggara Kab. Kolaka Timur, Sulawesi Tenggara;10;1,9
+25/01/2025 17:38;1,42° LS – 119,92° BT;Darat, ±30 km Barat Laut Kab. Donggala, Sulawesi Tengah;10;2,9
+25/01/2025 17:52;1,42° LS – 119,89° BT;Darat, ±32 km Barat Laut Kab. Donggala, Sulawesi Tengah;10;2,9
+25/01/2025 18:29;9,39° LS – 115,41° BT;Laut, ±45 km Selatan Kab. Jembrana, Bali;28,3;3,1
+25/01/2025 19:03;2,93° LS – 127,61° BT;Laut, ±40 km Barat Daya Kab. Halmahera Selatan;18;3,2
+25/01/2025 19:13;1,43° LS – 119,94° BT;Darat, ±28 km Barat Laut Kab. Donggala, Sulawesi Tengah;5;2,1
+25/01/2025 19:32;8,21° LS – 119,43° BT;Darat, ±30 km Barat Daya Kab. Sumba Barat, NTT;9,7;3,3
+25/01/2025 19:51;5,35° LS – 104,61° BT;Darat, ±25 km Barat Daya Kab. Tanggamus, Lampung;5;2,8
+25/01/2025 21:09;8,85° LS – 111,01° BT;Laut, ±50 km Selatan Kab. Blitar, Jawa Timur;12,3;3,3
+25/01/2025 21:15;2,67° LS – 140,88° BT;Darat, ±40 km Timur Laut Kab. Jayapura, Papua;14,3;3,7
+25/01/2025 21:30;8,72° LS – 124,31° BT;Laut, ±55 km Timur Laut Kab. Alor, NTT;71,4;2,9
+26/01/2025 00:05;8,86° LS – 110,98° BT;Laut, ±45 km Selatan Kab. Gunungkidul, DIY;19,5;3,1
+26/01/2025 02:13;8,41° LS – 110,71° BT;Laut, ±70 km Selatan Kab. Gunungkidul, DIY;120,6;2,7
+26/01/2025 04:28;4,01° LS – 121,75° BT;Darat, ±25 km Barat Laut Kab. Konawe, Sulawesi Tenggara;10;2,9
+26/01/2025 04:36;1,40° LS – 119,91° BT;Darat, ±20 km Tenggara Kab. Donggala, Sulawesi Tengah;10;4,5
+26/01/2025 04:51;9,00° LS – 123,62° BT;Laut, ±45 km Timur Laut Kab. Rote Ndao, NTT;16;2,1
+26/01/2025 05:42;8,54° LS – 121,93° BT;Darat, ±30 km Barat Daya Kab. Ende, NTT;23,8;1,3
+26/01/2025 06:38;10,04° LS – 120,19° BT;Laut, ±60 km Barat Daya Kab. Sumba Timur, NTT;10;3,2
+26/01/2025 07:25;0,26° LU – 98,59° BT;Laut, ±40 km Barat Laut Kab. Nias Barat, Sumatera Utara;23,8;3,3
+26/01/2025 07:27;8,50° LS – 109,06° BT;Laut, ±55 km Selatan Kab. Kebumen, Jawa Tengah;57,4;4,2
+26/01/2025 09:09;2,94° LU – 97,29° BT;Laut, ±50 km Barat Laut Kab. Aceh Jaya;36,7;3,3
+26/01/2025 09:46;1,07° LU – 125,88° BT;Laut, ±40 km Timur Laut Kab. Halmahera Timur;48,8;3,1
+26/01/2025 10:01;6,17° LS – 104,40° BT;Laut, ±35 km Barat Daya Kab. Tanggamus, Lampung;27,3;2,8
+26/01/2025 10:04;1,42° LS – 119,98° BT;Darat, ±20 km Tenggara Kab. Donggala, Sulawesi Tengah;10;1,9
+26/01/2025 10:08;9,75° LS – 115,88° BT;Laut, ±45 km Selatan Kab. Jembrana, Bali;15,7;2,7
+26/01/2025 10:41;2,26° LS – 121,36° BT;Darat, ±25 km Barat Daya Kab. Poso, Sulawesi Tengah;10;2,4
+26/01/2025 10:51;1,46° LS – 119,94° BT;Darat, ±20 km Tenggara Kab. Donggala, Sulawesi Tengah;10;2,8
+26/01/2025 11:23;0,98° LU – 125,44° BT;Laut, ±35 km Timur Laut Kab. Halmahera Timur;28,9;3,5
+26/01/2025 13:07;9,67° LS – 116,42° BT;Laut, ±40 km Selatan Kab. Sumba Barat Daya, NTT;43,9;2,6
+26/01/2025 13:12;0,92° LS – 133,68° BT;Darat, ±35 km Barat Daya Kab. Supiori, Papua;40,3;2,8
+26/01/2025 13:19;4,07° LS – 103,36° BT;Darat, ±45 km Barat Laut Kab. Seluma, Bengkulu;152,3;3,2
+26/01/2025 14:08;0,28° LS – 123,18° BT;Laut, ±35 km Utara Kab. Banggai Laut, Sulawesi Tengah;104,1;3,7
+26/01/2025 15:33;4,02° LS – 121,76° BT;Darat, ±25 km Barat Laut Kab. Konawe, Sulawesi Tenggara;10;2,2
+26/01/2025 17:00;1,97° LU – 98,16° BT;Laut, ±40 km Barat Laut Kab. Nias Barat, Sumatera Utara;36,6;2,6
+26/01/2025 17:25;8,63° LS – 118,39° BT;Darat, ±35 km Barat Daya Kab. Dompu, NTB;110,6;2,2
+26/01/2025 17:32;8,36° LS – 108,98° BT;Laut, ±45 km Selatan Kab. Kebumen, Jawa Tengah;29,1;2,5
+26/01/2025 17:34;9,57° LS – 116,42° BT;Laut, ±40 km Selatan Kab. Sumba Barat Daya, NTT;29,7;2,8
+26/01/2025 17:47;2,43° LS – 128,91° BT;Darat, ±30 km Tenggara Kab. Seram Bagian Timur, Maluku;10;3,1
+26/01/2025 17:50;9,49° LS – 117,60° BT;Laut, ±45 km Selatan Kab. Sumba Tengah, NTT;27,3;2,2
+26/01/2025 18:32;7,02° LS – 106,70° BT;Laut, ±40 km Selatan Kab. Sukabumi, Jawa Barat;120;1,9
+26/01/2025 18:39;0,20° LS – 122,96° BT;Laut, ±30 km Utara Kab. Banggai Laut, Sulawesi Tengah;94,9;3,3
+26/01/2025 18:45;5,66 LU – 126,94315 BT;Laut, ±120 km Timur Laut Kab. Kep. Talaud, Sulawesi Utara;126,4;4,89
+27/01/2025 01:08;1,60 LS – 100,48706 BT;Darat, ±15 km Barat Daya Kab. Pasaman Barat, Sumatera Barat;19,6;3,65
+27/01/2025 01:55;9,01 LS – 111,26316 BT;Laut, ±90 km Selatan Kab. Pacitan, Jawa Timur;24,8;2,36
+27/01/2025 02:22;1,17 LU – 126,00162 BT;Laut, ±70 km Barat Laut Kab. Halmahera Barat, Maluku Utara;26,5;3,24
+27/01/2025 03:59;1,74 LS – 133,18646 BT;Laut, ±110 km Barat Daya Kab. Merauke, Papua Selatan;13,7;3,09
+27/01/2025 04:51;8,36 LS – 121,70013 BT;Laut, ±45 km Utara Kab. Lembata, Nusa Tenggara Timur;18,8;2,12
+27/01/2025 05:04;6,06 LS – 105,62047 BT;Laut, ±140 km Barat Daya Kab. Pandeglang, Banten;145,7;3,67
+27/01/2025 05:26;7,90 LS – 117,43733 BT;Laut, ±35 km Barat Laut Kab. Sumbawa Barat, Nusa Tenggara Barat;21,6;2,56
+27/01/2025 06:08;0,95 LS – 120,28171 BT;Laut, ±30 km Barat Kota Gorontalo, Gorontalo;20,3;2,29
+27/01/2025 06:11;7,56 LS – 106,10664 BT;Darat, ±20 km Selatan Kab. Sukabumi, Jawa Barat;23,3;3,04
+27/01/2025 07:55;0,50 LU – 120,32038 BT;Laut, ±45 km Timur Laut Kab. Parigi Moutong, Sulawesi Tengah;43,7;2,83
+27/01/2025 08:41;2,46 LS – 121,18053 BT;Darat, ±10 km Tenggara Kab. Poso, Sulawesi Tengah;10;3,53
+27/01/2025 09:17;2,46 LS – 121,18539 BT;Darat, ±10 km Tenggara Kab. Poso, Sulawesi Tengah;10;3,2
+27/01/2025 09:44;1,06 LS – 100,14320 BT;Darat, ±40 km Barat Daya Kab. Pesisir Selatan, Sumatera Barat;56,5;3,2
+27/01/2025 10:50;7,44 LS – 129,15616 BT;Laut, ±120 km Timur Laut Kab. Kep. Tanimbar, Maluku;124,5;4,95
+27/01/2025 13:56;4,16 LU – 122,79456 BT;Laut, ±250 km Utara Kab. Pulau Morotai, Maluku Utara;547,6;4,25
+27/01/2025 15:15;1,22 LU – 120,38491 BT;Laut, ±25 km Timur Kota Gorontalo, Gorontalo;18,9;2,65
+27/01/2025 16:20;4,04 LS – 121,84568 BT;Darat, ±10 km Barat Daya Kab. Poso, Sulawesi Tengah;10;2,56
+27/01/2025 16:27;4,05 LS – 121,80779 BT;Darat, ±10 km Barat Daya Kab. Poso, Sulawesi Tengah;10;4,16
+27/01/2025 16:34;7,83 LS – 118,48150 BT;Laut, ±30 km Utara Kab. Lombok Timur, Nusa Tenggara Barat;20,4;2,37
+27/01/2025 16:37;3,30 LU – 97,36552 BT;Darat, ±25 km Barat Laut Kab. Simeulue, Aceh;12,1;2,42
+27/01/2025 16:38;3,90 LS – 133,39445 BT;Laut, ±120 km Barat Daya Kab. Merauke, Papua Selatan;14,9;3,38
+27/01/2025 16:57;0,10 LS – 123,16386 BT;Laut, ±140 km Tenggara Kab. Seram Bagian Timur, Maluku;142,7;3,72
+27/01/2025 17:18;7,88 LS – 111,28999 BT;Laut, ±160 km Selatan Kab. Trenggalek, Jawa Timur;272,1;2,82
+27/01/2025 17:21;1,58 LS – 120,12148 BT;Darat, ±10 km Barat Laut Kab. Parigi Moutong, Sulawesi Tengah;10;2,01
+27/01/2025 17:27;4,11 LS – 121,81129 BT;Darat, ±10 km Barat Daya Kab. Poso, Sulawesi Tengah;10;4,3
+27/01/2025 17:37;2,52 LS – 121,18781 BT;Darat, ±10 km Tenggara Kab. Poso, Sulawesi Tengah;10;4,38
+27/01/2025 17:41;2,01 LU – 128,99112 BT;Laut, ±40 km Timur Laut Kab. Halmahera Timur, Maluku Utara;22,1;3,13
+27/01/2025 17:48;2,52 LU – 98,62983 BT;Darat, ±15 km Barat Daya Kab. Nias Selatan, Sumatera Utara;10;1,9
+27/01/2025 17:50;2,53 LS – 121,15617 BT;Darat, ±10 km Tenggara Kab. Poso, Sulawesi Tengah;10;3,22
+27/01/2025 17:54;1,48 LU – 118,00053 BT;Laut, ±45 km Timur Kab. Sumbawa Barat, Nusa Tenggara Barat;43,1;2,05
+27/01/2025 17:59;2,58 LS – 121,17277 BT;Darat, ±10 km Tenggara Kab. Poso, Sulawesi Tengah;10;2,57
+27/01/2025 18:01;2,65 LS – 121,19357 BT;Darat, ±10 km Tenggara Kab. Poso, Sulawesi Tengah;10;2,26
+27/01/2025 18:02;3,18 LS – 136,11090 BT;Laut, ±90 km Barat Daya Kab. Merauke, Papua Selatan;10;2,9
+27/01/2025 18:05;4,06 LS – 121,78664 BT;Darat, ±10 km Barat Daya Kab. Poso, Sulawesi Tengah;10;1,84
+27/01/2025 18:05;4,06 LS – 121,78664 BT;Darat, ±10 km Barat Daya Kab. Poso, Sulawesi Tengah;10;1,92
+27/01/2025 18:19;6,89 LS – 105,98652 BT;Laut, ±60 km Barat Daya Kab. Pandeglang, Banten;54,3;2,76
+27/01/2025 18:20;8,86 LS – 122,65736 BT;Laut, ±80 km Barat Daya Kab. Flores Timur, Nusa Tenggara Timur;71,6;2,06
+27/01/2025 18:22;4,21 LS – 103,61300 BT;Darat, ±15 km Barat Laut Kab. Pesisir Barat, Lampung;10;2,23
+27/01/2025 18:33;8,54 LS – 111,38553 BT;Laut, ±90 km Selatan Kab. Pacitan, Jawa Timur;75,2;2,24
+27/01/2025 18:37;4,02 LS – 121,77151 BT;Darat, ±10 km Barat Daya Kab. Poso, Sulawesi Tengah;13,2;1,74
+27/01/2025 18:38;2,63 LS – 121,18288 BT;Darat, ±10 km Tenggara Kab. Poso, Sulawesi Tengah;10;2,27
+27/01/2025 18:45;8,24 LS – 115,06963 BT;Laut, ±60 km Selatan Kab. Jembrana, Bali;10;2,55
+27/01/2025 18:47;4,01 LS – 121,75858 BT;Darat, ±10 km Barat Daya Kab. Poso, Sulawesi Tengah;11,2;1,63
+28/01/2025 01:27;2,59 LS – 137,01131 BT;Laut, ±110 km Timur Laut Kab. Mamberamo Raya, Papua;74,1;3,99
+28/01/2025 01:58;2,55 LS – 121,16680 BT;Darat, ±10 km Tenggara Kab. Poso, Sulawesi Tengah;10;3,03
+28/01/2025 03:36;8,57 LS – 114,92799 BT;Laut, ±70 km Selatan Kab. Jembrana, Bali;97,4;2,61
+28/01/2025 04:02;2,71 LS – 121,16062 BT;Darat, ±10 km Tenggara Kab. Poso, Sulawesi Tengah;10;2,56
+28/01/2025 04:29;3,29 LU – 126,13482 BT;Laut, ±60 km Barat Laut Kab. Halmahera Utara, Maluku Utara;46,2;4,16
+28/01/2025 05:21;2,32 LU – 128,29707 BT;Laut, ±70 km Timur Laut Kab. Halmahera Timur, Maluku Utara;66,7;3,71
+28/01/2025 05:54;9,76 LS – 119,25462 BT;Darat, ±45 km Barat Daya Kab. Sumba Barat Daya, NTT;37,1;2,82
+28/01/2025 06:00;2,54 LS – 122,12735 BT;Laut, ±55 km Timur Kab. Banggai Laut, Sulawesi Tengah;55,5;2,98
+28/01/2025 19:01;5,00 LS – 129,81514 BT;Laut, ±180 km Barat Daya Kab. Kep. Tanimbar, Maluku;186,1;4,28
+28/01/2025 19:04;2,71 LU – 98,15491 BT;Darat, ±30 km Barat Laut Kab. Nias Barat, Sumatera Utara;74;2,05
+28/01/2025 19:25;1,36 LS – 120,07223 BT;Darat, ±10 km Barat Kab. Parigi Moutong, Sulawesi Tengah;10;2,18
+28/01/2025 19:28;2,13 LS – 120,68447 BT;Darat, ±10 km Barat Laut Kab. Poso, Sulawesi Tengah;10;2,06
+28/01/2025 19:45;6,26 LS – 130,64308 BT;Laut, ±150 km Tenggara Kab. Kep. Tanimbar, Maluku;154,1;4,55
+28/01/2025 19:50;7,19 LS – 129,42043 BT;Laut, ±150 km Selatan Kab. Kep. Aru, Maluku;155;4,39
+28/01/2025 20:08;3,44 LS – 135,55145 BT;Laut, ±30 km Barat Laut Kab. Kep. Yapen, Papua;28;2,4
+28/01/2025 20:36;2,88 LS – 130,33075 BT;Laut, ±10 km Barat Kab. Kep. Sula, Maluku Utara;10;3,03
+28/01/2025 20:46;0,13 LS – 119,84155 BT;Darat, ±10 km Timur Kota Palu, Sulawesi Tengah;10;1,96
+28/01/2025 20:52;3,61 LU – 127,69669 BT;Laut, ±20 km Barat Laut Kab. Halmahera Utara, Maluku Utara;13;3,48
+28/01/2025 21:02;4,03 LS – 121,77359 BT;Darat, ±10 km Barat Daya Kab. Poso, Sulawesi Tengah;10;2,22
+28/01/2025 21:23;0,04 LU – 123,88052 BT;Laut, ±95 km Timur Kab. Banggai Laut, Sulawesi Tengah;96,9;3,13
+28/01/2025 21:23;8,38 LS – 120,51759 BT;Laut, ±160 km Selatan Kab. Manggarai Barat, NTT;164,6;2,7
+28/01/2025 21:49;3,28 LU – 126,11115 BT;Laut, ±70 km Barat Laut Kab. Halmahera Barat, Maluku Utara;68,9;3,48
+28/01/2025 21:55;6,75 LS – 106,60996 BT;Darat, ±15 km Barat Daya Kab. Sukabumi, Jawa Barat;10;3,11
+28/01/2025 21:56;6,75 LS – 106,60323 BT;Darat, ±15 km Barat Daya Kab. Sukabumi, Jawa Barat;10;3,02
+28/01/2025 22:29;6,50 LS – 106,61709 BT;Darat, ±10 km Barat Daya Kab. Sukabumi, Jawa Barat;8,8;2,45
+28/01/2025 22:30;6,75 LS – 106,73721 BT;Darat, ±20 km Tenggara Kab. Sukabumi, Jawa Barat;31,1;1,93
+28/01/2025 22:32;6,79 LS – 106,58142 BT;Darat, ±10 km Barat Daya Kab. Sukabumi, Jawa Barat;6,3;1,82
+28/01/2025 22:56;6,74 LS – 106,60837 BT;Darat, ±10 km Barat Daya Kab. Sukabumi, Jawa Barat;6,3;2,32
+28/01/2025 23:14;4,96 LU – 95,95486 BT;Laut, ±20 km Barat Laut Kota Sabang, Aceh;14,2;1,83
+28/01/2025 23:15;5,08 LU – 95,87849 BT;Laut, ±25 km Barat Laut Kota Sabang, Aceh;11,7;1,88
+28/01/2025 23:27;4,09 LS – 121,75932 BT;Darat, ±5 km Barat Daya Kab. Poso, Sulawesi Tengah;5;3,18
+28/01/2025 23:30;1,12 LU – 121,13986 BT;Laut, ±10 km Timur Kab. Buol, Sulawesi Tengah;8,8;2,85
+29/01/2025 00:42;0,61 LU – 121,58469 BT;Laut, ±50 km Timur Kab. Buol, Sulawesi Tengah;51,7;2,92
+29/01/2025 00:50;4,06 LS – 121,80151 BT;Darat, ±10 km Barat Daya Kab. Poso, Sulawesi Tengah;10;5,05
+29/01/2025 01:05;4,09 LS – 121,81260 BT;Darat, ±10 km Barat Daya Kab. Poso, Sulawesi Tengah;7,2;2,09
+29/01/2025 01:08;4,11 LS – 121,84071 BT;Darat, ±10 km Barat Daya Kab. Poso, Sulawesi Tengah;5;3,57
+29/01/2025 01:15;4,13 LS – 121,68949 BT;Darat, ±10 km Barat Daya Kab. Poso, Sulawesi Tengah;5;2,31
+29/01/2025 01:16;4,06 LS – 121,77756 BT;Darat, ±10 km Barat Daya Kab. Poso, Sulawesi Tengah;5;2,42
+29/01/2025 01:20;4,12 LS – 121,77824 BT;Darat, ±10 km Barat Daya Kab. Poso, Sulawesi Tengah;5;2,3
+29/01/2025 01:29;4,22 LS – 121,69517 BT;Darat, ±15 km Barat Daya Kab. Poso, Sulawesi Tengah;15,1;2,05
+30/01/2025 02:18;2,53 LS – 126,86964 BT;Laut, ±40 km Timur Kab. Halmahera Tengah, Maluku Utara;37,8;4,74
+30/01/2025 04:10;8,40 LS – 109,25539 BT;Laut, ±70 km Selatan Kab. Cilacap, Jawa Tengah;37;4,08
+30/01/2025 04:32;9,91 LS – 124,06544 BT;Laut, ±25 km Selatan Kab. Rote Ndao, NTT;14,2;2,23
+30/01/2025 04:36;9,85 LS – 124,06181 BT;Laut, ±25 km Selatan Kab. Rote Ndao, NTT;19,9;2,28
+30/01/2025 06:06;2,48 LS – 121,48785 BT;Darat, ±10 km Tenggara Kab. Poso, Sulawesi Tengah;10;3,1
+30/01/2025 08:54;4,51 LS – 136,93922 BT;Laut, ±55 km Timur Kab. Mamberamo Raya, Papua;54,4;3,93
+30/01/2025 09:13;6,73 LS – 129,76485 BT;Laut, ±180 km Barat Daya Kab. Kep. Aru, Maluku;184,4;4,77
+31/01/2025 01:15;1,64 LU – 126,55 BT;Laut, ±25 km Timur Laut Kab. Kep. Talaud, Sulawesi Utara;24;3,47
+31/01/2025 04:09;9,20 LS – 123,72 BT;Laut, ±60 km Barat Daya Kab. Kupang, Nusa Tenggara Timur;61,9;3,82
+31/01/2025 06:27;0,25 LU – 121,77 BT;Laut, ±170 km Barat Laut Kab. Morowali, Sulawesi Tengah;169,4;2,22
+31/01/2025 11:03;3,16 LU – 96,96 BT;Darat, ±20 km Barat Daya Kab. Aceh Jaya, Aceh;58,6;5,89
+01/02/2025 06:19;1,32 LU – 126,88 BT;Laut, ±20 km Timur Kab. Kep. Talaud, Sulawesi Utara;21,1;2,7
+01/02/2025 06:30;7,79 LS – 127,56 BT;Laut, ±138 km Timur Laut Kab. Kep. Tanimbar, Maluku;138,4;4,22
+01/02/2025 06:51;1,81 LU – 126,09 BT;Laut, ±31 km Barat Laut Kab. Kep. Talaud, Sulawesi Utara;30,7;3,11
+01/02/2025 07:15;8,88 LS – 124,09 BT;Laut, ±53 km Selatan Kab. Kupang, Nusa Tenggara Timur;53,2;2,96
+01/02/2025 07:26;2,74 LS – 121,10 BT;Darat, ±10 km Barat Daya Kab. Poso, Sulawesi Tengah;10;1,51
+01/02/2025 07:27;1,19 LU – 126,14 BT;Laut, ±34 km Barat Laut Kab. Kep. Talaud, Sulawesi Utara;33,9;2,95
+01/02/2025 07:34;1,40 LU – 126,37 BT;Laut, ±32 km Timur Laut Kab. Kep. Talaud, Sulawesi Utara;32,1;2,72
+01/02/2025 07:54;2,33 LS – 140,33 BT;Darat, ±13 km Timur Laut Kota Jayapura, Papua;13,2;2,69
+01/02/2025 08:07;4,04 LS – 121,90 BT;Darat, ±10 km Timur Laut Kab. Konawe, Sulawesi Tenggara;10;3,07
+01/02/2025 08:11;2,49 LS – 120,82 BT;Darat, ±10 km Barat Daya Kab. Poso, Sulawesi Tengah;10;2,8
+01/02/2025 08:32;6,26 LS – 122,57 BT;Laut, ±26 km Tenggara Kab. Wakatobi, Sulawesi Tenggara;26,1;3,78
+01/02/2025 09:38;8,02 LS – 110,43 BT;Laut, ±10 km Selatan Kab. Gunungkidul, DI Yogyakarta;10;2,69
+01/02/2025 10:19;4,87 LU – 96,08 BT;Laut, ±12 km Barat Daya Kab. Aceh Jaya, Aceh;11,5;2,35
+01/02/2025 11:44;1,45 LU – 126,02 BT;Laut, ±24 km Barat Kab. Kep. Talaud, Sulawesi Utara;24,4;4
+01/02/2025 13:33;9,09 LS – 117,20 BT;Laut, ±10 km Barat Daya Kab. Sumba Barat, NTT;10;2,23
+01/02/2025 13:45;3,14 LU – 128,23 BT;Laut, ±167 km Timur Laut Kab. Halmahera Timur, Maluku Utara;166,7;3,2
+01/02/2025 13:54;0,32 LS – 121,99 BT;Laut, ±12 km Tenggara Kab. Banggai Laut, Sulawesi Tengah;11,7;2,25
+01/02/2025 14:02;5,07 LU – 95,88 BT;Laut, ±9 km Barat Laut Kab. Aceh Besar, Aceh;8,5;2,95
+01/02/2025 14:11;3,02 LU – 96,90 BT;Darat, ±17 km Barat Laut Kab. Aceh Jaya, Aceh;17,2;2,47
+01/02/2025 14:59;2,36 LS – 120,82 BT;Darat, ±5 km Barat Daya Kab. Poso, Sulawesi Tengah;5;2,64
+01/02/2025 15:26;0,82 LU – 97,78 BT;Laut, ±29 km Barat Laut Kab. Nias Barat, Sumatera Utara;28,9;2,77
+01/02/2025 16:37;2,84 LU – 97,66 BT;Laut, ±43 km Barat Laut Kab. Simeulue, Aceh;42,6;2,66
+01/02/2025 18:05;3,09 LU – 97,41 BT;Darat, ±11 km Barat Laut Kab. Aceh Jaya, Aceh;11,2;2,37
+01/02/2025 18:36;2,68 LS – 121,12 BT;Darat, ±10 km Barat Daya Kab. Poso, Sulawesi Tengah;10;1,73
+01/02/2025 18:53;8,53 LS – 121,50 BT;Laut, ±13 km Tenggara Kab. Ende, NTT;12,8;1,87
+01/02/2025 19:32;2,47 LS – 121,02 BT;Darat, ±10 km Barat Daya Kab. Poso, Sulawesi Tengah;10;2,47
+01/02/2025 20:19;4,05 LS – 121,86 BT;Darat, ±10 km Timur Laut Kab. Konawe, Sulawesi Tenggara;10;2,72
+01/02/2025 20:24;4,48 LS – 134,47 BT;Laut, ±39 km Timur Laut Kab. Nabire, Papua Tengah;39,2;5,09
+01/02/2025 21:20;3,56 LS – 135,58 BT;Darat, ±19 km Tenggara Kab. Nabire, Papua Tengah;18,9;2,71
+01/02/2025 22:39;6,67 LS – 130,50 BT;Laut, ±142 km Barat Daya Kab. Maluku Barat Daya, Maluku;141,9;4,61
+01/02/2025 22:49;3,20 LU – 96,98 BT;Darat, ±28 km Barat Laut Kab. Aceh Jaya, Aceh;28,4;3,06
+01/02/2025 23:07;2,35 LS – 120,54 BT;Darat, ±10 km Barat Daya Kab. Poso, Sulawesi Tengah;10;2,28
+02/02/2025 02:01;0,75 LS – 134,00 BT;Laut, ±13 km Barat Laut Kab. Biak Numfor, Papua;13,2;3,27
+02/02/2025 02:05;2,57 LU – 126,66 BT;Laut, ±32 km Timur Laut Kab. Kep. Talaud, Sulawesi Utara;32,1;3,63
+02/02/2025 02:50;2,87 LS – 129,47 BT;Laut, ±26 km Barat Daya Kab. Seram Bagian Timur, Maluku;26,3;3,7
+02/02/2025 03:07;0,42 LS – 129,95 BT;Laut, ±8 km Tenggara Kab. Halmahera Timur, Maluku Utara;8;3,32
+02/02/2025 03:25;8,27 LS – 120,48 BT;Laut, ±18 km Barat Daya Kab. Manggarai Barat, NTT;17,5;2,21
+02/02/2025 03:40;2,19 LU – 127,19 BT;Laut, ±74 km Timur Laut Kab. Halmahera Timur, Maluku Utara;73,6;3,06
+02/02/2025 03:47;8,38 LS – 121,38 BT;Laut, ±10 km Selatan Kab. Ende, NTT;10;2,57
+02/02/2025 04:28;7,73 LS – 118,69 BT;Laut, ±22 km Barat Laut Kab. Dompu, NTB;22,3;3,08
+02/02/2025 04:34;3,07 LS – 129,62 BT;Laut, ±48 km Barat Daya Kab. Seram Bagian Timur, Maluku;48,4;3,29
+02/02/2025 04:38;9,81 LS – 120,58 BT;Laut, ±26 km Barat Daya Kab. Sumba Timur, NTT;25,6;2,58
+02/02/2025 05:29;7,15 LS – 106,65 BT;Laut, ±90 km Barat Daya Kab. Sukabumi, Jawa Barat;89,7;2,31
+02/02/2025 13:38;2,50 LS – 101,84 BT;Darat, ±151 km Barat Laut Kab. Kerinci, Jambi;151,2;5,04
+02/02/2025 13:46;8,92 LS – 124,03 BT;Laut, ±72 km Selatan Kab. Kupang, NTT;71,5;2,82
+02/02/2025 14:13;9,47 LS – 115,16 BT;Laut, ±19 km Selatan Kab. Sumba Barat Daya, NTT;19,2;3,22
+02/02/2025 14:15;2,67 LS – 139,30 BT;Darat, ±59 km Timur Kab. Jayapura, Papua;58,6;4,31
+02/02/2025 14:49;3,13 LS – 122,68 BT;Laut, ±82 km Tenggara Kab. Konawe Kepulauan, Sulawesi Tenggara;81,5;2,38
+02/02/2025 15:23;1,36 LS – 120,05 BT;Darat, ±10 km Barat Daya Kab. Poso, Sulawesi Tengah;10;1,98
+02/02/2025 15:37;4,00 LS – 121,75 BT;Darat, ±14 km Timur Laut Kab. Konawe, Sulawesi Tenggara;14,4;1,88
+02/02/2025 17:50;1,04 LU – 122,66 BT;Laut, ±44 km Barat Laut Kab. Gorontalo Utara, Gorontalo;44,1;2,74
+02/02/2025 18:34;0,40 LS – 122,02 BT;Laut, ±10 km Selatan Kab. Banggai Laut, Sulawesi Tengah;10;2,2
+03/02/2025 01:23;4,47 LS – 130,49 BT;Laut, ±39 km Barat Laut Kab. Seram Bagian Timur, Maluku;39;3,78
+03/02/2025 02:09;8,10 LS – 107,89 BT;Laut, ±24 km Barat Daya Kab. Pangandaran, Jawa Barat;24,1;3,77
+03/02/2025 02:27;4,14 LU – 126,52 BT;Laut, ±79 km Timur Laut Kab. Kep. Talaud, Sulawesi Utara;78,8;3,11
+03/02/2025 03:36;5,86 LS – 131,46 BT;Laut, ±105 km Tenggara Kab. Kep. Aru, Maluku;105,1;4,45
+03/02/2025 03:39;2,55 LS – 121,17 BT;Darat, ±5 km Barat Daya Kab. Poso, Sulawesi Tengah;5;2,24
+03/02/2025 03:46;9,65 LS – 112,71 BT;Laut, ±13 km Selatan Kab. Pacitan, Jawa Timur;13,4;3,49
+03/02/2025 05:05;1,34 LU – 128,27 BT;Laut, ±58 km Timur Laut Kab. Halmahera Timur, Maluku Utara;57,8;2,77
+03/02/2025 05:11;8,28 LS – 119,90 BT;Laut, ±174 km Barat Daya Kab. Sumba Barat, NTT;174;2,42
+03/02/2025 05:13;2,75 LS – 129,46 BT;Laut, ±10 km Barat Daya Kab. Seram Bagian Timur, Maluku;9,9;2,99
+03/02/2025 06:42;2,58 LS – 121,17 BT;Darat, ±5 km Barat Daya Kab. Poso, Sulawesi Tengah;5;2,41
+03/02/2025 06:43;8,71 LS – 110,52 BT;Laut, ±37 km Selatan Kab. Gunungkidul, DI Yogyakarta;37,4;3,26
+03/02/2025 08:11;9,38 LS – 117,97 BT;Laut, ±12 km Barat Daya Kab. Sumba Tengah, NTT;12,2;2,84
+03/02/2025 08:21;7,22 LS – 104,35 BT;Laut, ±10 km Barat Daya Kab. Lampung Barat, Lampung;10;3,87
+03/02/2025 09:11;9,13 LS – 123,88 BT;Laut, ±59 km Barat Daya Kab. Kupang, NTT;58,8;2,73
+03/02/2025 09:48;1,36 LS – 120,45 BT;Darat, ±10 km Barat Daya Kab. Poso, Sulawesi Tengah;10;2,7
+03/02/2025 10:51;9,33 LS – 120,31 BT;Laut, ±51 km Barat Daya Kab. Sumba Timur, NTT;51;2,76
+03/02/2025 11:10;3,64 LS – 140,69 BT;Darat, ±65 km Timur Kab. Jayapura, Papua;65,3;4,3
+03/02/2025 12:28;9,30 LS – 114,15 BT;Laut, ±24 km Selatan Kab. Sumba Barat Daya, NTT;23,7;3,61
+03/02/2025 12:56;1,05 LU – 127,90 BT;Laut, ±10 km Timur Laut Kab. Halmahera Timur, Maluku Utara;10;3,72
+03/02/2025 12:57;0,46 LU – 121,17 BT;Laut, ±63 km Barat Laut Kab. Gorontalo Utara, Gorontalo;62,6;2,42
+03/02/2025 19:17;3,31 LS – 131,06 BT;Laut, ±27 km Barat Daya Kab. Seram Bagian Timur, Maluku;27,4;3,95
+03/02/2025 19:53;2,79 LS – 129,50 BT;Laut, ±15 km Barat Daya Kab. Seram Bagian Timur, Maluku;15,1;3,37
+03/02/2025 20:16;10,40 LS – 120,31 BT;Laut, ±21 km Barat Daya Kab. Sumba Timur, NTT;21,1;4,22
+03/02/2025 20:32;2,70 LS – 121,12 BT;Darat, ±10 km Barat Daya Kab. Poso, Sulawesi Tengah;10;1,72
+03/02/2025 20:55;2,68 LS – 121,15 BT;Darat, ±10 km Barat Daya Kab. Poso, Sulawesi Tengah;10;2,2
+03/02/2025 21:03;4,04 LS – 121,78 BT;Darat, ±10 km Timur Laut Kab. Konawe, Sulawesi Tenggara;10;2,11
+03/02/2025 21:30;10,50 LS – 120,28 BT;Laut, ±49 km Barat Daya Kab. Sumba Timur, NTT;48,7;4,92
+03/02/2025 21:35;2,95 LU – 128,07 BT;Laut, ±106 km Timur Laut Kab. Halmahera Timur, Maluku Utara;105,8;5,92
+03/02/2025 22:21;2,94 LU – 128,10 BT;Laut, ±97 km Timur Laut Kab. Halmahera Timur, Maluku Utara;96,5;4,34
+03/02/2025 23:53;5,57 LU – 123,98 BT;Laut, ±483 km Timur Laut Kab. Minahasa Utara, Sulawesi Utara;483,3;4,15
+03/02/2025 23:57;1,78 LS – 139,10 BT;Darat, ±13 km Timur Kab. Jayapura, Papua;13,1;4,04
+04/02/2025 07:18;0,05 LU – 98,68 BT;Laut, ±10 km Barat Laut Kab. Nias Selatan, Sumatera Utara;10;3,05
+04/02/2025 09:45;8,37 LS – 119,63 BT;Laut, ±146 km Barat Daya Kab. Sumba Barat, NTT;145,8;2,86
+04/02/2025 09:47;6,83 LS – 105,07 BT;Laut, ±10 km Barat Daya Kab. Pandeglang, Banten;10;4,07
+04/02/2025 10:00;2,90 LS – 122,30 BT;Darat, ±10 km Tenggara Kab. Konawe, Sulawesi Tenggara;10;3,4
+04/02/2025 10:53;0,15 LU – 121,58 BT;Laut, ±89 km Barat Laut Kab. Gorontalo Utara, Gorontalo;89,4;2,71
+04/02/2025 11:12;9,91 LS – 119,25 BT;Laut, ±10 km Barat Daya Kab. Sumba Barat, NTT;10;2,86
+04/02/2025 11:26;1,39 LU – 127,26 BT;Laut, ±143 km Timur Laut Kab. Halmahera Timur, Maluku Utara;142,7;3,69
+04/02/2025 11:33;10,14 LS – 123,93 BT;Laut, ±11 km Barat Daya Kab. Rote Ndao, NTT;11,4;2,83
+04/02/2025 11:42;10,13 LS – 123,90 BT;Laut, ±14 km Barat Daya Kab. Rote Ndao, NTT;14,4;2,71
+04/02/2025 12:20;8,44 LS – 119,19 BT;Laut, ±12 km Barat Daya Kab. Sumba Barat, NTT;12,2;2,76
+04/02/2025 12:58;0,31 LS – 98,65 BT;Laut, ±10 km Barat Daya Kab. Nias Selatan, Sumatera Utara;10;2,74
+05/02/2025 08:01;4,46 LS – 122,87 BT;Darat, ±10 km Tenggara Kab. Konawe Kepulauan, Sulawesi Tenggara;10;2,95
+05/02/2025 08:16;6,98 LS – 105,41 BT;Laut, ±25 km Barat Daya Kab. Pandeglang, Banten;24,9;3,32
+05/02/2025 09:45;2,35 LS – 120,99 BT;Darat, ±10 km Barat Daya Kab. Poso, Sulawesi Tengah;10;3,54
+05/02/2025 09:56;2,52 LS – 121,22 BT;Darat, ±10 km Barat Daya Kab. Poso, Sulawesi Tengah;10;1,97
+05/02/2025 11:11;4,83 LU – 124,15 BT;Laut, ±461 km Timur Laut Kab. Minahasa Utara, Sulawesi Utara;461,1;4,14
+05/02/2025 11:24;1,54 LU – 127,17 BT;Laut, ±93 km Timur Laut Kab. Halmahera Timur, Maluku Utara;93,3;2,51
+05/02/2025 11:39;0,25 LS – 122,96 BT;Laut, ±36 km Selatan Kab. Banggai Laut, Sulawesi Tengah;35,5;2,46
+05/02/2025 12:01;0,86 LU – 120,55 BT;Laut, ±10 km Barat Laut Kab. Gorontalo Utara, Gorontalo;10;2,14
+06/02/2025 13:41;2,98 LU – 126,25 BT;Laut, ±33 km Timur Laut Kab. Kep. Talaud, Sulawesi Utara;32,9;2,74
+06/02/2025 13:56;0,51 LS – 121,90 BT;Laut, ±12 km Tenggara Kab. Banggai Laut, Sulawesi Tengah;11,8;2,66
+06/02/2025 14:26;1,63 LS – 120,19 BT;Darat, ±10 km Barat Daya Kab. Poso, Sulawesi Tengah;10;2,05
+06/02/2025 14:28;3,75 LS – 135,10 BT;Darat, ±10 km Barat Kab. Nabire, Papua Tengah;10;3,39
+06/02/2025 14:34;0,53 LS – 97,09 BT;Laut, ±57 km Barat Daya Kab. Nias Selatan, Sumatera Utara;57,3;3,68
+06/02/2025 14:46;7,76 LS – 107,37 BT;Laut, ±11 km Barat Daya Kab. Pangandaran, Jawa Barat;11;2,9
+06/02/2025 15:03;2,64 LS – 121,18 BT;Darat, ±10 km Barat Daya Kab. Poso, Sulawesi Tengah;10;2,14
+06/02/2025 15:20;4,02 LS – 121,79 BT;Darat, ±10 km Timur Laut Kab. Konawe, Sulawesi Tenggara;10;2,46
+06/02/2025 15:56;2,30 LS – 120,98 BT;Darat, ±10 km Barat Daya Kab. Poso, Sulawesi Tengah;10;2,2
+06/02/2025 17:42;2,19 LS – 140,16 BT;Darat, ±7 km Timur Kota Jayapura, Papua;6,8;4,08
+06/02/2025 17:59;8,57 LS – 112,96 BT;Laut, ±127 km Selatan Kab. Malang, Jawa Timur;126,7;3,11
+06/02/2025 18:00;4,93 LU – 95,73 BT;Laut, ±84 km Barat Laut Kab. Aceh Besar, Aceh;83,8;2,37
+06/02/2025 18:00;4,55 LS – 138,43 BT;Darat, ±5 km Barat Kab. Nabire, Papua Tengah;5;4,12
+06/02/2025 18:20;6,73 LS – 106,58 BT;Laut, ±12 km Barat Daya Kab. Sukabumi, Jawa Barat;12,3;2,21
+06/02/2025 20:04;0,92 LU – 100,18 BT;Darat, ±216 km Barat Daya Kota Padang, Sumatera Barat;215,6;4,34
+06/02/2025 20:21;4,08 LS – 121,81 BT;Darat, ±10 km Timur Laut Kab. Konawe, Sulawesi Tenggara;10;2,08
+06/02/2025 20:26;1,72 LS – 99,11 BT;Laut, ±53 km Barat Daya Kab. Mandailing Natal, Sumatera Utara;53,2;3,27
+06/02/2025 22:07;8,67 LS – 118,38 BT;Laut, ±104 km Selatan Kab. Dompu, Nusa Tenggara Barat;103,8;1,93
+19/02/2025 04:38;3,30 LS – 131,02766 BT;Laut, ±31 km Barat Laut Kab. Maluku Tengah, Maluku;31;5,15
+19/02/2025 07:23;10,11 LS – 123,72727 BT;Darat, ±14 km Barat Daya Kab. Timor Tengah Selatan, NTT;13,5;3,53
+19/02/2025 07:45;7,76 LS – 110,50803 BT;Darat, ±18 km Selatan Kab. Bantul, DI Yogyakarta;17,8;1,57
+19/02/2025 09:22;8,14 LS – 124,45486 BT;Laut, ±20 km Timur Laut Kab. Alor, NTT;19,9;2,78
+19/02/2025 09:31;3,25 LS – 131,12289 BT;Laut, ±18 km Barat Laut Kab. Maluku Tengah, Maluku;17,9;3,4
+19/02/2025 09:57;0,21 LU – 121,86960 BT;Laut, ±167 km Tenggara Kab. Parigi Moutong, Sulawesi Tengah;167,3;2,47
+19/02/2025 10:05;6,90 LS – 128,52983 BT;Laut, ±241 km Barat Laut Kab. Kepulauan Tanimbar, Maluku;241;4,87
+19/02/2025 10:31;7,30 LS – 129,20648 BT;Laut, ±140 km Barat Daya Kab. Kepulauan Tanimbar, Maluku;139,7;4,75
+19/02/2025 10:50;3,33 LS – 131,08846 BT;Laut, ±25 km Barat Laut Kab. Maluku Tengah, Maluku;25,3;3,11
+19/02/2025 11:21;2,04 LS – 121,19330 BT;Darat, ±5 km Tenggara Kab. Poso, Sulawesi Tengah;5;2,23
+19/02/2025 12:24;9,36 LS – 125,29018 BT;Laut, ±5 km Timur Laut Kab. Alor, NTT;5,1;2,66
+19/02/2025 12:45;3,49 LS – 131,04829 BT;Laut, ±77 km Barat Laut Kab. Maluku Tengah, Maluku;76,6;3,16
+19/02/2025 12:54;4,49 LU – 123,25961 BT;Laut, ±501 km Timur Laut Kab. Kepulauan Talaud, Sulawesi Utara;501,4;4,2
+19/02/2025 12:55;4,53 LU – 125,55631 BT;Laut, ±10 km Timur Laut Kab. Kepulauan Talaud, Sulawesi Utara;10;3,36
+19/02/2025 19:06;1,10 LU – 128,16504 BT;Laut, ±10 km Timur Laut Kab. Halmahera Selatan, Maluku Utara;10;2,38
+19/02/2025 19:42;7,54 LS – 105,90839 BT;Laut, ±10 km Barat Daya Kab. Pandeglang, Banten;10;3,94
+19/02/2025 20:25;1,03 LU – 121,02733 BT;Laut, ±11 km Barat Laut Kab. Buol, Sulawesi Tengah;11,4;3,25
+19/02/2025 21:32;3,32 LS – 131,10431 BT;Laut, ±23 km Barat Laut Kab. Maluku Tengah, Maluku;22,5;4,16
+19/02/2025 21:41;2,03 LU – 126,86459 BT;Laut, ±10 km Timur Laut Kab. Halmahera Utara, Maluku Utara;10;3,57
+19/02/2025 22:07;8,67 LS – 116,27733 BT;Laut, ±10 km Barat Daya Kab. Lombok Timur, NTB;10;2,29
+19/02/2025 22:29;1,40 LS – 101,50399 BT;Darat, ±10 km Barat Laut Kab. Pesisir Selatan, Sumatera Barat;10;2,31
+19/02/2025 22:36;8,37 LS – 119,59081 BT;Laut, ±142 km Barat Daya Kab. Dompu, NTB;141,7;2,74
+19/02/2025 23:25;3,24 LS – 131,10945 BT;Laut, ±26 km Barat Laut Kab. Maluku Tengah, Maluku;25,7;3,76
+20/02/2025 01:03;0,36 LS – 122,77151 BT;Darat, ±10 km Barat Laut Kab. Poso, Sulawesi Tengah;10;2,85
+20/02/2025 01:53;8,43 LS – 111,30340 BT;Laut, ±115 km Selatan Kab. Trenggalek, Jawa Timur;115,2;2,66
+20/02/2025 03:05;4,74 LS – 103,81580 BT;Laut, ±83 km Barat Daya Kab. Bengkulu Selatan, Bengkulu;83,3;2,41
+20/02/2025 03:42;0,23 LS – 121,88670 BT;Darat, ±10 km Tenggara Kab. Poso, Sulawesi Tengah;10;2,46
+20/02/2025 03:48;2,41 LS – 120,73531 BT;Darat, ±10 km Barat Daya Kab. Poso, Sulawesi Tengah;10;2,77
+20/02/2025 04:27;3,34 LS – 131,09656 BT;Laut, ±55 km Barat Laut Kab. Maluku Tengah, Maluku;55,1;3,23
+20/02/2025 05:44;8,73 LS – 111,78973 BT;Laut, ±33 km Selatan Kab. Tulungagung, Jawa Timur;32,8;3,35
+20/02/2025 05:48;7,51 LS – 106,74774 BT;Laut, ±39 km Barat Daya Kab. Sukabumi, Jawa Barat;38,6;3,31
+20/02/2025 07:48;3,34 LS – 131,08664 BT;Laut, ±26 km Barat Laut Kab. Maluku Tengah, Maluku;25,9;3,96
+20/02/2025 08:24;3,12 LU – 96,96113 BT;Darat, ±21 km Tenggara Kab. Aceh Jaya, Aceh;21,2;3,12
+20/02/2025 08:58;5,65 LS – 130,05994 BT;Laut, ±160 km Tenggara Kab. Maluku Barat Daya, Maluku;160,4;4,19
+20/02/2025 09:04;3,32 LS – 131,10133 BT;Laut, ±52 km Barat Laut Kab. Maluku Tengah, Maluku;52,4;3,18
+20/02/2025 10:03;0,38 LU – 121,94311 BT;Laut, ±130 km Tenggara Kab. Parigi Moutong, Sulawesi Tengah;130,4;4,84
+20/02/2025 10:12;7,58 LS – 106,13821 BT;Laut, ±22 km Barat Daya Kab. Sukabumi, Jawa Barat;21,9;4,35
+20/02/2025 11:12;2,35 LU – 128,10452 BT;Laut, ±131 km Timur Laut Kab. Halmahera Utara, Maluku Utara;130,9;4,33
+20/02/2025 11:51;3,87 LS – 132,06953 BT;Laut, ±22 km Timur Laut Kab. Seram Bagian Timur, Maluku;22;4,89
+21/02/2025 14:34;2,49 LS – 120,86079 BT;Darat, ±10 km Barat Daya Kab. Poso, Sulawesi Tengah;10;2,64
+21/02/2025 15:31;3,02 LS – 130,62762 BT;Laut, ±10 km Selatan Kab. Seram Bagian Barat, Maluku;10;3,79
+21/02/2025 16:33;8,47 LS – 117,15443 BT;Laut, ±13 km Selatan Kab. Sumbawa Barat, NTB;13,2;2,02
+21/02/2025 16:35;1,82 LU – 127,47538 BT;Laut, ±56 km Timur Laut Kab. Halmahera Utara, Maluku Utara;55,7;2,57
+21/02/2025 16:42;0,48 LU – 121,19332 BT;Laut, ±49 km Barat Laut Kab. Buol, Sulawesi Tengah;49,3;2,59
+21/02/2025 16:46;8,32 LS – 119,93961 BT;Laut, ±157 km Barat Daya Kab. Dompu, NTB;156,7;2,17
+21/02/2025 17:09;2,61 LS – 121,15462 BT;Darat, ±10 km Tenggara Kab. Poso, Sulawesi Tengah;10;2,3
+21/02/2025 17:34;0,24 LS – 122,92643 BT;Laut, ±28 km Barat Laut Kab. Morowali Utara, Sulawesi Tengah;28,3;2,55
+21/02/2025 17:45;9,60 LS – 119,50865 BT;Laut, ±57 km Barat Daya Kab. Sumba Barat Daya, NTT;57,2;2,32
+21/02/2025 17:48;4,41 LS – 128,39648 BT;Darat, ±10 km Timur Laut Kab. Buru Selatan, Maluku;10;3,65
+21/02/2025 18:17;0,45 LU – 120,25894 BT;Laut, ±40 km Barat Laut Kab. Buol, Sulawesi Tengah;40,3;3,52
+21/02/2025 18:43;9,17 LS – 118,99378 BT;Laut, ±56 km Barat Daya Kab. Sumba Barat, NTT;56;2,82
+21/02/2025 18:44;4,00 LU – 126,50687 BT;Laut, ±77 km Timur Laut Kab. Kepulauan Talaud, Sulawesi Utara;76,6;4,2
+21/02/2025 18:51;7,90 LS – 117,65486 BT;Laut, ±21 km Selatan Kab. Sumbawa, NTB;21,1;2,63
+21/02/2025 20:47;7,96 LS – 124,58285 BT;Laut, ±179 km Barat Laut Kab. Alor, NTT;178,9;3,48
+22/02/2025 03:12;1,39 LU – 125,53637 BT;Laut, ±10 km Timur Laut Kab. Halmahera Utara, Maluku Utara;10;3,64
+22/02/2025 04:16;9,07 LS – 110,18237 BT;Laut, ±10 km Selatan Kab. Gunungkidul, DI Yogyakarta;10;2,58
+22/02/2025 05:02;7,36 LS – 126,63646 BT;Laut, ±292 km Barat Laut Kab. Kepulauan Tanimbar, Maluku;292,3;3,7
+22/02/2025 05:57;0,23 LS – 98,48289 BT;Laut, ±44 km Barat Laut Kab. Nias Selatan, Sumatera Utara;43,9;3,23
+22/02/2025 06:02;7,27 LS – 129,15991 BT;Laut, ±177 km Barat Daya Kab. Kepulauan Tanimbar, Maluku;177,1;4,12
+22/02/2025 06:58;7,18 LS – 107,44766 BT;Darat, ±10 km Selatan Kab. Garut, Jawa Barat;10;1,51
+22/02/2025 15:01;7,13 LS – 116,69643 BT;Laut, ±491 km Selatan Kab. Sumbawa, NTB;490,9;3,41
+22/02/2025 15:03;9,15 LS – 122,52709 BT;Laut, ±97 km Barat Daya Kab. Lembata, NTT;96,9;2,87
+22/02/2025 15:59;4,65 LS – 102,63781 BT;Laut, ±32 km Barat Daya Kab. Seluma, Bengkulu;32;2,91
+22/02/2025 16:31;9,41 LS – 113,47913 BT;Laut, ±5 km Selatan Kab. Pacitan, Jawa Timur;5;3,36
+22/02/2025 17:05;0,94 LS – 133,78624 BT;Laut, ±8 km Barat Laut Kab. Teluk Wondama, Papua Barat;8,3;2,83
+22/02/2025 17:31;8,85 LS – 118,06489 BT;Darat, ±5 km Selatan Kab. Dompu, NTB;5;1,83
+22/02/2025 18:07;8,11 LS – 117,76183 BT;Laut, ±20 km Selatan Kab. Sumbawa, NTB;19,9;3,15
+22/02/2025 18:15;8,39 LS – 111,98782 BT;Laut, ±129 km Selatan Kab. Blitar, Jawa Timur;128,7;2,82
+22/02/2025 18:25;3,74 LS – 136,81677 BT;Laut, ±139 km Tenggara Kab. Jayapura, Papua;139,2;3,46
+22/02/2025 18:54;4,76 LS – 119,88202 BT;Laut, ±10 km Barat Daya Kab. Barru, Sulawesi Selatan;10,3;3,49
+23/02/2025 13:02;0,45 LU – 125,49916 BT;Laut, ±12 km Timur Laut Kab. Halmahera Utara, Maluku Utara;12,7;3,06
+23/02/2025 13:16;6,21 LS – 104,94749 BT;Laut, ±36 km Barat Daya Kab. Tanggamus, Lampung;36,3;2,87
+23/02/2025 13:19;1,21 LU – 126,38517 BT;Laut, ±9 km Timur Laut Kab. Halmahera Utara, Maluku Utara;8,7;4
+23/02/2025 13:23;7,67 LS – 127,39941 BT;Laut, ±152 km Tenggara Kab. Kepulauan Tanimbar, Maluku;152,2;4,19
+23/02/2025 13:42;0,03 LS – 126,64333 BT;Laut, ±36 km Barat Laut Kab. Halmahera Barat, Maluku Utara;36,4;3,47
+23/02/2025 14:05;1,90 LU – 98,89156 BT;Laut, ±104 km Barat Laut Kab. Nias Barat, Sumatera Utara;103,6;2,66
+23/02/2025 14:14;3,67 LU – 127,10614 BT;Laut, ±26 km Timur Laut Kab. Kepulauan Talaud, Sulawesi Utara;26,1;3,6
+23/02/2025 14:33;8,68 LS – 116,31558 BT;Laut, ±86 km Barat Daya Kab. Lombok Barat, NTB;85,6;1,98
+23/02/2025 15:15;1,88 LS – 133,52002 BT;Laut, ±9 km Barat Daya Kab. Manokwari Selatan, Papua Barat;9;3,07
+23/02/2025 16:01;3,39 LS – 134,86278 BT;Laut, ±9 km Timur Laut Kab. Teluk Bintuni, Papua Barat;8,8;2,79
+23/02/2025 16:20;3,39 LS – 135,52890 BT;Laut, ±37 km Timur Kab. Teluk Bintuni, Papua Barat;36,9;4,23
+23/02/2025 17:36;7,98 LS – 117,58558 BT;Laut, ±11 km Selatan Kab. Sumbawa, NTB;10,7;2,13
+23/02/2025 17:41;0,52 LU – 121,34399 BT;Laut, ±66 km Barat Laut Kab. Buol, Sulawesi Tengah;66,2;2,15
+23/02/2025 17:47;9,69 LS – 112,78754 BT;Laut, ±6 km Selatan Kab. Pacitan, Jawa Timur;6,1;2,99
+23/02/2025 17:59;9,40 LS – 115,65031 BT;Laut, ±35 km Barat Daya Kab. Sumba Barat, NTT;34,9;2,4
+23/02/2025 18:01;2,25 LS – 120,76082 BT;Darat, ±5 km Barat Daya Kab. Poso, Sulawesi Tengah;5;2,29
+23/02/2025 18:11;2,42 LU – 126,13789 BT;Laut, ±26 km Timur Laut Kab. Halmahera Utara, Maluku Utara;26;2,93
+23/02/2025 19:21;9,34 LS – 120,34606 BT;Laut, ±7 km Barat Daya Kab. Sumba Barat Daya, NTT;7;4,81
+23/02/2025 19:46;0,46 LU – 124,81366 BT;Laut, ±10 km Timur Laut Kab. Halmahera Barat, Maluku Utara;10;3,29
+23/02/2025 19:47;7,84 LS – 126,62120 BT;Laut, ±10 km Barat Laut Kab. Kepulauan Tanimbar, Maluku;10;4,02
+23/02/2025 20:15;9,31 LS – 117,38529 BT;Laut, ±61 km Barat Daya Kab. Sumba Barat, NTT;60,9;2,34
+23/02/2025 20:18;8,92 LS – 116,25548 BT;Laut, ±110 km Selatan Kab. Lombok Barat, NTB;109,9;1,88
+23/02/2025 20:44;1,85 LU – 120,95202 BT;Laut, ±30 km Timur Laut Kab. Buol, Sulawesi Tengah;29,8;2,84
+23/02/2025 20:45;4,72 LS – 122,32808 BT;Laut, ±10 km Barat Daya Kab. Kolaka, Sulawesi Tenggara;10;2,65
+23/02/2025 20:57;4,71 LU – 97,15101 BT;Darat, ±10 km Tenggara Kab. Aceh Tengah, Aceh;10;2,12
+23/02/2025 20:59;9,28 LS – 120,35328 BT;Laut, ±18 km Barat Daya Kab. Sumba Barat Daya, NTT;18,2;2,06
+23/02/2025 21:26;9,24 LS – 118,97519 BT;Laut, ±55 km Barat Daya Kab. Sumba Barat, NTT;54,5;1,92
+23/02/2025 21:38;0,07 LS – 119,77969 BT;Darat, ±11 km Barat Laut Kab. Donggala, Sulawesi Tengah;11,3;1,44
+23/02/2025 21:41;0,01 LU – 126,11346 BT;Laut, ±10 km Barat Laut Kab. Halmahera Barat, Maluku Utara;10;3,29
+23/02/2025 21:45;9,10 LS – 117,18584 BT;Laut, ±10 km Barat Daya Kab. Sumba Barat, NTT;10;2,03
+23/02/2025 21:46;1,23 LS – 120,14679 BT;Darat, ±10 km Tenggara Kab. Parigi Moutong, Sulawesi Tengah;10;2,26
+23/02/2025 22:07;1,41 LS – 137,01112 BT;Laut, ±15 km Timur Laut Kab. Jayapura, Papua;14,5;3,34
+23/02/2025 22:13;0,82 LS – 100,09666 BT;Darat, ±10 km Barat Daya Kab. Agam, Sumatera Barat;10;2,87
+23/02/2025 23:18;8,40 LS – 108,85138 BT;Laut, ±74 km Selatan Kab. Tasikmalaya, Jawa Barat;73,8;2,99
+23/02/2025 23:48;0,36 LU – 123,12384 BT;Laut, ±76 km Timur Laut Kab. Gorontalo Utara, Gorontalo;75,5;2,75
+24/02/2025 00:29;1,28 LS – 120,08400 BT;Darat, ±10 km Tenggara Kab. Parigi Moutong, Sulawesi Tengah;10;2,26
+24/02/2025 00:36;8,52 LS – 121,84736 BT;Laut, ±15 km Barat Daya Kab. Flores Timur, NTT;14,7;2,61
+26/02/2025 04:42;2,72 LS – 121,12170 BT;Darat, ±10 km Tenggara Kab. Poso, Sulawesi Tengah;10;1,71
+26/02/2025 07:56;0,40 LU – 124,86151 BT;Laut, ±10 km Timur Laut Kab. Halmahera Barat, Maluku Utara;10;4,76
+26/02/2025 08:00;9,30 LS – 120,34568 BT;Laut, ±22 km Barat Daya Kab. Sumba Barat Daya, NTT;21,6;2,36
+26/02/2025 08:01;2,39 LS – 140,55258 BT;Darat, ±5 km Timur Kab. Jayapura, Papua;5,2;3,01
+26/02/2025 08:03;8,67 LS – 116,20497 BT;Laut, ±102 km Selatan Kab. Lombok Barat, NTB;101,9;1,99
+26/02/2025 08:15;0,41 LU – 124,81706 BT;Laut, ±10 km Timur Laut Kab. Halmahera Barat, Maluku Utara;10;2,78
+26/02/2025 08:35;0,40 LU – 124,87492 BT;Laut, ±10 km Timur Laut Kab. Halmahera Barat, Maluku Utara;10;3,87
+26/02/2025 08:56;0,43 LU – 124,89122 BT;Laut, ±10 km Timur Laut Kab. Halmahera Barat, Maluku Utara;10;4,92
+26/02/2025 09:04;0,43 LU – 124,87416 BT;Laut, ±10 km Timur Laut Kab. Halmahera Barat, Maluku Utara;10;4,78
+26/02/2025 09:16;0,44 LU – 124,79611 BT;Laut, ±10 km Timur Laut Kab. Halmahera Barat, Maluku Utara;10;4,06
+26/02/2025 09:25;0,44 LU – 124,83087 BT;Laut, ±10 km Timur Laut Kab. Halmahera Barat, Maluku Utara;10;3,5
+26/02/2025 09:28;0,41 LU – 124,81957 BT;Laut, ±10 km Timur Laut Kab. Halmahera Barat, Maluku Utara;10;3,01
+26/02/2025 09:32;0,39 LU – 124,84004 BT;Laut, ±10 km Timur Laut Kab. Halmahera Barat, Maluku Utara;10;3,14
+26/02/2025 09:35;0,49 LU – 124,84907 BT;Laut, ±10 km Timur Laut Kab. Halmahera Barat, Maluku Utara;10;2,87
+26/02/2025 09:50;0,43 LU – 124,83450 BT;Laut, ±10 km Timur Laut Kab. Halmahera Barat, Maluku Utara;10;3,19
+26/02/2025 10:01;0,44 LU – 124,86382 BT;Laut, ±10 km Timur Laut Kab. Halmahera Barat, Maluku Utara;10;2,64
+26/02/2025 10:06;0,41 LU – 124,82711 BT;Laut, ±10 km Timur Laut Kab. Halmahera Barat, Maluku Utara;10;2,49
+26/02/2025 10:13;0,37 LU – 124,81052 BT;Laut, ±5 km Timur Laut Kab. Halmahera Barat, Maluku Utara;5;2,86
+26/02/2025 10:15;8,41 LS – 121,60983 BT;Laut, ±18 km Barat Daya Kab. Flores Timur, NTT;17,8;1,46
+26/02/2025 10:17;0,38 LU – 124,86526 BT;Laut, ±5 km Timur Laut Kab. Halmahera Barat, Maluku Utara;5;4,51
+26/02/2025 10:43;0,40 LU – 124,86296 BT;Laut, ±10 km Timur Laut Kab. Halmahera Barat, Maluku Utara;10;3,25
+26/02/2025 10:45;0,35 LU – 124,86666 BT;Laut, ±5 km Timur Laut Kab. Halmahera Barat, Maluku Utara;5;3,28
+26/02/2025 10:48;0,39 LU – 124,86820 BT;Laut, ±10 km Timur Laut Kab. Halmahera Barat, Maluku Utara;10;3,28
+26/02/2025 11:02;0,41 LU – 124,83956 BT;Laut, ±5 km Timur Laut Kab. Halmahera Barat, Maluku Utara;5;3,17
+26/02/2025 11:10;0,38 LU – 124,86830 BT;Laut, ±5 km Timur Laut Kab. Halmahera Barat, Maluku Utara;5,3;3,15
+26/02/2025 11:16;0,39 LU – 124,89926 BT;Laut, ±5 km Timur Laut Kab. Halmahera Barat, Maluku Utara;5;3,24
+26/02/2025 11:27;5,19 LU – 95,89677 BT;Laut, ±10 km Barat Laut Kota Banda Aceh, Aceh;10;2,19
+26/02/2025 11:45;0,41 LU – 124,80423 BT;Laut, ±5 km Timur Laut Kab. Halmahera Barat, Maluku Utara;5;3,32
+26/02/2025 11:48;0,40 LU – 124,91056 BT;Laut, ±5 km Timur Laut Kab. Halmahera Barat, Maluku Utara;5;4,73
+26/02/2025 11:59;0,35 LU – 124,89157 BT;Laut, ±5 km Timur Laut Kab. Halmahera Barat, Maluku Utara;5;2,6
+26/02/2025 12:15;0,44 LU – 124,80043 BT;Laut, ±5 km Timur Laut Kab. Halmahera Barat, Maluku Utara;5;3,63
+26/02/2025 12:20;0,45 LU – 124,81372 BT;Laut, ±11 km Timur Laut Kab. Halmahera Barat, Maluku Utara;10,6;3,36
+26/02/2025 13:15;0,37 LU – 124,91138 BT;Laut, ±5 km Timur Laut Kab. Halmahera Barat, Maluku Utara;5;4,97
+26/02/2025 13:38;0,44 LU – 124,86017 BT;Laut, ±5 km Timur Laut Kab. Halmahera Barat, Maluku Utara;5;3,41
+26/02/2025 13:47;0,46 LU – 124,82544 BT;Laut, ±5 km Timur Laut Kab. Halmahera Barat, Maluku Utara;5;3,28
+26/02/2025 13:52;0,44 LU – 124,85049 BT;Laut, ±5 km Timur Laut Kab. Halmahera Barat, Maluku Utara;5;3,36
+26/02/2025 14:07;0,46 LU – 124,84295 BT;Laut, ±10 km Timur Laut Kab. Halmahera Barat, Maluku Utara;10;3,14
+26/02/2025 14:14;0,89 LU – 124,65940 BT;Laut, ±10 km Barat Laut Kab. Halmahera Barat, Maluku Utara;10;3,26
+26/02/2025 14:27;0,32 LU – 125,03203 BT;Laut, ±10 km Timur Laut Kab. Halmahera Barat, Maluku Utara;10;4,15
+26/02/2025 14:33;0,47 LU – 124,88366 BT;Laut, ±10 km Timur Laut Kab. Halmahera Barat, Maluku Utara;10;4,58
+26/02/2025 14:43;0,61 LU – 124,55524 BT;Laut, ±21 km Barat Laut Kab. Halmahera Barat, Maluku Utara;21,2;3,3
+26/02/2025 14:48;6,26 LS – 103,77194 BT;Laut, ±20 km Barat Daya Kab. Pesisir Barat, Lampung;20;2,72
+26/02/2025 14:56;2,01 LU – 96,23296 BT;Laut, ±24 km Barat Laut Kab. Aceh Singkil, Aceh;23,7;3,03
+26/02/2025 15:04;0,43 LU – 124,84727 BT;Laut, ±5 km Timur Laut Kab. Halmahera Barat, Maluku Utara;5;3,7
+26/02/2025 15:24;0,44 LU – 124,79338 BT;Laut, ±5 km Timur Laut Kab. Halmahera Barat, Maluku Utara;5;2,95
+26/02/2025 15:43;3,00 LU – 126,66046 BT;Laut, ±29 km Timur Laut Kab. Kepulauan Talaud, Sulawesi Utara;29,1;3,14
+26/02/2025 15:48;0,41 LU – 124,81980 BT;Laut, ±5 km Timur Laut Kab. Halmahera Barat, Maluku Utara;5;3
+26/02/2025 15:56;0,37 LU – 124,85670 BT;Laut, ±5 km Timur Laut Kab. Halmahera Barat, Maluku Utara;5;2,85
+26/02/2025 16:04;0,44 LU – 124,77749 BT;Laut, ±5 km Timur Laut Kab. Halmahera Barat, Maluku Utara;5;2,81
+26/02/2025 16:07;0,42 LU – 124,83721 BT;Laut, ±7 km Timur Laut Kab. Halmahera Barat, Maluku Utara;7,3;2,55
+26/02/2025 16:45;0,38 LU – 124,83253 BT;Laut, ±5 km Timur Laut Kab. Halmahera Barat, Maluku Utara;5;2,98
+26/02/2025 16:51;3,48 LS – 138,61122 BT;Darat, ±96 km Barat Laut Kab. Yahukimo, Papua Pegunungan;96,4;4,12
+26/02/2025 17:28;0,47 LU – 124,72697 BT;Laut, ±21 km Barat Laut Kab. Halmahera Barat, Maluku Utara;20,7;3,02
+26/02/2025 17:34;1,30 LU – 126,42282 BT;Laut, ±22 km Timur Laut Kab. Halmahera Utara, Maluku Utara;22;4,61
+26/02/2025 17:41;4,88 LU – 127,31141 BT;Laut, ±90 km Timur Laut Kab. Kepulauan Talaud, Sulawesi Utara;90,3;4,5
+26/02/2025 17:48;0,36 LU – 124,84488 BT;Laut, ±5 km Timur Laut Kab. Halmahera Barat, Maluku Utara;5;4,21
+26/02/2025 18:06;1,26 LS – 120,80352 BT;Darat, ±5 km Tenggara Kab. Poso, Sulawesi Tengah;5;1,87
+26/02/2025 18:14;0,35 LU – 124,89650 BT;Laut, ±5 km Timur Laut Kab. Halmahera Barat, Maluku Utara;5;3,38
+26/02/2025 18:16;9,97 LS – 123,89265 BT;Laut, ±5 km Barat Daya Kab. Rote Ndao, NTT;5,4;4,07
+26/02/2025 18:19;2,50 LU – 95,81358 BT;Laut, ±19 km Barat Laut Kab. Aceh Besar, Aceh;19,1;3,86
+26/02/2025 18:23;9,30 LS – 116,52234 BT;Laut, ±24 km Selatan Kab. Lombok Barat, NTB;24,1;2,69
+26/02/2025 19:07;4,09 LS – 121,82597 BT;Darat, ±5 km Barat Daya Kab. Kolaka Timur, Sulawesi Tenggara;5;1,89
+26/02/2025 19:18;0,37 LU – 124,86666 BT;Laut, ±10 km Timur Laut Kab. Halmahera Barat, Maluku Utara;10;3,41
+26/02/2025 19:37;0,38 LU – 124,92577 BT;Laut, ±5 km Timur Laut Kab. Halmahera Barat, Maluku Utara;5;3,29
+26/02/2025 19:38;0,45 LS – 99,79205 BT;Darat, ±81 km Barat Daya Kab. Agam, Sumatera Barat;81;2,85
+26/02/2025 19:41;0,36 LU – 124,86631 BT;Laut, ±5 km Timur Laut Kab. Halmahera Barat, Maluku Utara;5;3,79
+26/02/2025 19:51;0,95 LU – 120,33623 BT;Darat, ±10 km Utara Kab. Buol, Sulawesi Tengah;10;1,76
+26/02/2025 19:55;0,91 LU – 120,38351 BT;Darat, ±17 km Utara Kab. Buol, Sulawesi Tengah;16,6;1,8
+26/02/2025 20:27;0,41 LU – 124,80833 BT;Laut, ±5 km Timur Laut Kab. Halmahera Barat, Maluku Utara;5;2,9
+26/02/2025 20:40;0,08 LS – 123,09290 BT;Laut, ±141 km Timur Laut Kab. Banggai Laut, Sulawesi Tengah;141,4;2,7
+26/02/2025 21:04;7,10 LS – 105,73358 BT;Laut, ±75 km Barat Daya Kab. Pandeglang, Banten;74,5;4,04
+26/02/2025 21:04;2,19 LS – 139,53000 BT;Darat, ±13 km Barat Laut Kab. Jayapura, Papua;12,9;4,14
+26/02/2025 21:05;0,39 LU – 124,83233 BT;Laut, ±5 km Timur Laut Kab. Halmahera Barat, Maluku Utara;5;3,51
+26/02/2025 21:25;2,22 LS – 120,75058 BT;Darat, ±5 km Tenggara Kab. Poso, Sulawesi Tengah;5;2,24
+27/02/2025 00:45;0,46 LS – 123,58257 BT;Laut, ±10 km Barat Laut Kab. Banggai Laut, Sulawesi Tengah;10;3,14
+27/02/2025 01:08;0,41 LU – 124,90690 BT;Laut, ±14 km Timur Laut Kab. Halmahera Barat, Maluku Utara;14,4;4,73
+27/02/2025 01:28;0,41 LU – 124,86079 BT;Laut, ±10 km Timur Laut Kab. Halmahera Barat, Maluku Utara;10;3,36
+27/02/2025 01:33;0,34 LU – 126,50620 BT;Laut, ±45 km Barat Laut Kab. Halmahera Utara, Maluku Utara;45,1;3,06
+27/02/2025 01:42;0,38 LU – 124,88271 BT;Laut, ±10 km Timur Laut Kab. Halmahera Barat, Maluku Utara;10;3,48
+27/02/2025 02:06;0,42 LU – 124,90975 BT;Laut, ±10 km Timur Laut Kab. Halmahera Barat, Maluku Utara;10;3,9
+27/02/2025 02:19;6,86 LS – 130,47050 BT;Laut, ±108 km Barat Laut Kab. Kepulauan Tanimbar, Maluku;108;4,31
+27/02/2025 02:26;0,93 LU – 119,97749 BT;Darat, ±10 km Utara Kab. Buol, Sulawesi Tengah;10;3,01
+27/02/2025 02:30;2,62 LU – 127,49789 BT;Laut, ±72 km Timur Laut Kab. Kepulauan Talaud, Sulawesi Utara;71,5;3,84
+27/02/2025 02:33;0,49 LU – 124,91550 BT;Laut, ±10 km Timur Laut Kab. Halmahera Barat, Maluku Utara;10;4,36
+27/02/2025 02:53;0,77 LU – 124,48881 BT;Laut, ±12 km Barat Laut Kab. Halmahera Barat, Maluku Utara;12,1;3,8
+27/02/2025 02:59;0,38 LU – 124,88985 BT;Laut, ±10 km Timur Laut Kab. Halmahera Barat, Maluku Utara;10;3,75
+27/02/2025 03:04;3,47 LS – 139,93910 BT;Darat, ±81 km Timur Laut Kab. Yahukimo, Papua Pegunungan;80,8;4,69
+27/02/2025 03:22;0,46 LU – 124,87581 BT;Laut, ±10 km Timur Laut Kab. Halmahera Barat, Maluku Utara;10;3,67
+27/02/2025 03:35;8,13 LS – 118,14657 BT;Laut, ±10 km Selatan Kab. Sumbawa, NTB;10;1,96
+27/02/2025 03:36;0,49 LS – 126,70209 BT;Laut, ±18 km Barat Laut Kab. Halmahera Barat, Maluku Utara;18;4,36
+27/02/2025 03:51;5,45 LS – 103,08817 BT;Darat, ±15 km Barat Daya Kab. Pesisir Barat, Lampung;15;3,22
+27/02/2025 03:51;8,14 LS – 127,63201 BT;Laut, ±131 km Tenggara Kab. Kepulauan Tanimbar, Maluku;131,1;3,95
+27/02/2025 03:53;7,78 LS – 117,34473 BT;Laut, ±19 km Selatan Kab. Sumbawa, NTB;19,1;2,41
+27/02/2025 04:09;0,33 LU – 124,78727 BT;Laut, ±5 km Timur Laut Kab. Halmahera Barat, Maluku Utara;5;3,72
+27/02/2025 04:39;8,66 LS – 117,42017 BT;Laut, ±5 km Selatan Kab. Sumbawa, NTB;5;2,34
+27/02/2025 05:04;2,44 LU – 126,85653 BT;Laut, ±23 km Timur Laut Kab. Halmahera Utara, Maluku Utara;23,2;3,14
+27/02/2025 06:45;0,40 LU – 121,97735 BT;Laut, ±169 km Barat Laut Kab. Banggai Laut, Sulawesi Tengah;168,7;2,63
+27/02/2025 06:56;8,32 LS – 118,68232 BT;Laut, ±158 km Selatan Kab. Sumbawa, NTB;157,7;3,02
+27/02/2025 07:49;9,54 LS – 117,94164 BT;Laut, ±27 km Barat Daya Kab. Sumba Barat, NTT;26,7;2,38
+27/02/2025 08:13;0,62 LU – 124,88059 BT;Laut, ±10 km Timur Laut Kab. Halmahera Barat, Maluku Utara;10;4,17
+27/02/2025 08:38;8,13 LS – 110,20125 BT;Laut, ±82 km Selatan Kab. Gunungkidul, DI Yogyakarta;82,3;1,9
+27/02/2025 09:11;0,68 LS – 131,44533 BT;Laut, ±10 km Barat Daya Kab. Raja Ampat, Papua Barat Daya;10;3,29
+27/02/2025 10:30;0,45 LU – 124,81380 BT;Laut, ±10 km Timur Laut Kab. Halmahera Barat, Maluku Utara;10;3,37
+27/02/2025 10:38;0,45 LU – 124,77382 BT;Laut, ±10 km Timur Laut Kab. Halmahera Barat, Maluku Utara;10;3,26
+27/02/2025 10:38;6,61 LS – 129,36246 BT;Laut, ±225 km Barat Laut Kab. Kepulauan Tanimbar, Maluku;225,2;5,01
+27/02/2025 10:49;0,41 LU – 124,88738 BT;Laut, ±10 km Timur Laut Kab. Halmahera Barat, Maluku Utara;10;3,91
+27/02/2025 11:47;2,28 LS – 120,94216 BT;Darat, ±10 km Tenggara Kab. Poso, Sulawesi Tengah;10;4,7
+27/02/2025 12:00;2,37 LS – 120,83572 BT;Darat, ±10 km Tenggara Kab. Poso, Sulawesi Tengah;10;2,13
+27/02/2025 12:24;9,40 LS – 119,34655 BT;Laut, ±44 km Barat Daya Kab. Sumba Barat Daya, NTT;44;2,44
+27/02/2025 12:41;8,27 LS – 117,68370 BT;Laut, ±10 km Selatan Kab. Sumbawa, NTB;10,3;2,26
+27/02/2025 13:00;2,35 LS – 120,85534 BT;Darat, ±10 km Tenggara Kab. Poso, Sulawesi Tengah;10;2,65
+27/02/2025 13:14;0,68 LU – 121,30827 BT;Laut, ±51 km Barat Laut Kab. Buol, Sulawesi Tengah;50,8;2,15
+27/02/2025 13:26;0,45 LU – 125,48129 BT;Laut, ±10 km Timur Laut Kab. Halmahera Barat, Maluku Utara;10,2;4,07
+27/02/2025 13:42;2,36 LS – 120,86319 BT;Darat, ±15 km Tenggara Kab. Poso, Sulawesi Tengah;14,5;1,6
+27/02/2025 14:05;0,12 LU – 99,99200 BT;Darat, ±10 km Barat Daya Kab. Agam, Sumatera Barat;10;2,47
+27/02/2025 14:23;0,34 LU – 124,83997 BT;Laut, ±10 km Timur Laut Kab. Halmahera Barat, Maluku Utara;10;3,52
+27/02/2025 14:26;0,65 LU – 124,60954 BT;Laut, ±10 km Barat Laut Kab. Halmahera Barat, Maluku Utara;10;3,79
+27/02/2025 14:35;7,58 LS – 128,85031 BT;Laut, ±153 km Tenggara Kab. Kepulauan Tanimbar, Maluku;153,2;4,57
+27/02/2025 15:13;0,43 LU – 124,81088 BT;Laut, ±10 km Timur Laut Kab. Halmahera Barat, Maluku Utara;10;3,28
+27/02/2025 15:30;3,56 LU – 127,78153 BT;Laut, ±54 km Timur Laut Kab. Kepulauan Talaud, Sulawesi Utara;53,6;4,59
+27/02/2025 15:42;8,09 LS – 117,76646 BT;Laut, ±12 km Selatan Kab. Sumbawa, NTB;12,1;3,06
+27/02/2025 15:52;8,50 LS – 120,82314 BT;Laut, ±178 km Barat Daya Kab. Flores Timur, NTT;177,8;4,93
+27/02/2025 16:04;0,29 LU – 122,19511 BT;Laut, ±141 km Barat Laut Kab. Banggai Laut, Sulawesi Tengah;140,5;2,98
+27/02/2025 16:10;0,44 LU – 124,78006 BT;Laut, ±10 km Timur Laut Kab. Halmahera Barat, Maluku Utara;10;3,18
+27/02/2025 16:30;0,44 LU – 124,87250 BT;Laut, ±10 km Timur Laut Kab. Halmahera Barat, Maluku Utara;10;3,56
+27/02/2025 16:39;5,16 LS – 102,95644 BT;Darat, ±12 km Barat Daya Kab. Pesisir Barat, Lampung;12,4;2,68
+27/02/2025 17:16;7,61 LS – 124,76090 BT;Laut, ±371 km Selatan Kab. Halmahera Selatan, Maluku Utara;370,9;4,11
+27/02/2025 17:18;2,32 LS – 120,85698 BT;Darat, ±10 km Tenggara Kab. Poso, Sulawesi Tengah;10;2,66
+27/02/2025 17:45;9,41 LS – 122,49683 BT;Laut, ±50 km Barat Daya Kab. Rote Ndao, NTT;50,1;2,74
+27/02/2025 18:02;2,30 LS – 120,85665 BT;Darat, ±10 km Tenggara Kab. Poso, Sulawesi Tengah;10;3,24
+27/02/2025 18:19;0,38 LU – 124,89665 BT;Laut, ±10 km Timur Laut Kab. Halmahera Barat, Maluku Utara;10;3,35
+27/02/2025 18:33;6,82 LS – 105,04041 BT;Laut, ±10 km Barat Daya Kab. Tanggamus, Lampung;10;2,74
+28/02/2025 02:05;2,32 LS – 120,81277 BT;Darat, ±5 km Tenggara Kab. Poso, Sulawesi Tengah;5;3,09
+28/02/2025 02:16;9,17 LS – 120,77108 BT;Laut, ±14 km Barat Daya Kab. Sumba Barat Daya, NTT;13,9;2,48
+28/02/2025 02:24;2,33 LS – 120,83672 BT;Darat, ±5 km Tenggara Kab. Poso, Sulawesi Tengah;5;3,3
+28/02/2025 02:38;2,29 LS – 127,90046 BT;Laut, ±8 km Barat Laut Kab. Halmahera Selatan, Maluku Utara;8;3,27
+28/02/2025 03:41;5,38 LS – 129,36278 BT;Laut, ±226 km Barat Laut Kab. Kepulauan Tanimbar, Maluku;225,8;4,07
+28/02/2025 03:43;8,00 LS – 117,28855 BT;Laut, ±13 km Selatan Kab. Sumbawa, NTB;13,1;2,52
+28/02/2025 03:55;5,99 LU – 126,85987 BT;Laut, ±106 km Timur Laut Kab. Kepulauan Talaud, Sulawesi Utara;105,7;4,13
+28/02/2025 04:30;2,29 LS – 128,04298 BT;Laut, ±38 km Barat Laut Kab. Halmahera Selatan, Maluku Utara;37,8;3,52
+28/02/2025 05:59;3,22 LS – 130,99356 BT;Laut, ±18 km Barat Laut Kab. Seram Bagian Timur, Maluku;18,4;3,79
+28/02/2025 06:27;10,27 LS – 119,20226 BT;Laut, ±15 km Barat Daya Kab. Sumba Barat Daya, NTT;15,2;2,29
+28/02/2025 06:32;8,15 LS – 114,17020 BT;Laut, ±14 km Selatan Kab. Jembrana, Bali;13,9;2
+28/02/2025 06:35;7,99 LS – 120,46713 BT;Laut, ±8 km Selatan Kab. Sumbawa Barat, NTB;7,9;2,18
+28/02/2025 06:47;2,36 LS – 120,97034 BT;Darat, ±5 km Tenggara Kab. Poso, Sulawesi Tengah;5;3,11
